@@ -1,0 +1,1001 @@
+ser_id,age,gender,income_level,location,preferences,interests,purchase_history,budget_range,tech_savviness
+7715e7e8-7d31-4761-9449-ac9e8c04b0c7,45,Male,Low,Jaipur,"large screen,high resolution",entertainment,"Smartphone,Smartphone",10000-20000,Advanced
+bf2f7e08-3287-430e-81f8-9ed93181a9c8,38,Female,Medium,Surat,fast processor,gaming,"Smartphone,Laptop",20000-40000,Intermediate
+6ff8c0c2-438b-451e-84a5-c0e4a23f82cb,54,Male,High,Lucknow,"good speakers,high resolution",entertainment,Smartphone,100000-150000,Intermediate
+0d631ece-5d44-47e0-8dd1-34db29d4b408,61,Female,High,Delhi,"lightweight,professional design",business,Laptop,60000-100000,Beginner
+9e844ad2-3691-40f4-94df-fdc7b4468308,32,Male,Medium,Thane,"compact,lightweight",travel,"Laptop,Smartphone",20000-40000,Intermediate
+42b7295f-25a4-4ac5-88a1-c94ddb8c81d7,42,Female,Low,Kolkata,"compact,lightweight,long battery",travel,"Smartphone,Smartphone,Laptop",10000-20000,Beginner
+601991d7-c771-48f4-b6bc-2352acf30267,58,Male,Medium,Kanpur,"camera quality,good storage",photography,"Smartphone,Smartphone",20000-40000,Beginner
+c99e037d-2f33-42d9-ae94-cde019394630,46,Male,Medium,Delhi,"good speakers,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",60000-100000,Beginner
+c3dea150-6e9e-4fed-92e6-f43cd53e8cb6,21,Male,Medium,Pune,"long battery,lightweight,compact",travel,"Laptop,Laptop,Laptop",40000-60000,Advanced
+45b99d30-6b07-4fc2-838d-d7febf219c85,50,Male,Low,Ahmedabad,lightweight,business,"Laptop,Laptop,Smartphone",10000-20000,Beginner
+631b182c-81a5-4a31-9699-50fe98bedd81,60,Female,Low,Kolkata,"long battery,lightweight",travel,Smartphone,20000-40000,Beginner
+84132e81-50fc-4cec-875f-f761e1b248bc,20,Female,High,Mumbai,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Laptop",150000+,Intermediate
+3ca42197-6242-413f-b8af-7be1afe562ce,25,Male,Low,Hyderabad,budget-friendly,education,Smartphone,10000-20000,Advanced
+4a5f373a-f9c0-48a8-88e5-11930f3962b7,26,Male,Low,Delhi,dedicated graphics,gaming,"Smartphone,Smartphone,Smartphone",20000-40000,Advanced
+15f4b0b5-9853-4089-8e44-1186a005e4bf,58,Female,High,Bhopal,"high performance,fast processor",gaming,Laptop,100000-150000,Beginner
+f2758200-3c35-441d-8082-8d31946b80fa,22,Male,Low,Visakhapatnam,"long battery,professional design",business,Smartphone,10000-20000,Advanced
+b7ffa8e9-2910-4c06-9d2c-0a4827bfbd92,31,Female,Low,Nagpur,"fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",20000-40000,Beginner
+322f4ded-00f1-456c-8613-4ed69384abf2,53,Male,High,Thane,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop,Laptop",150000+,Beginner
+28ddba7b-2edf-46d5-859e-a08d2a210f42,34,Male,Medium,Kanpur,"compact,lightweight,long battery",travel,Smartphone,20000-40000,Intermediate
+38e7b163-dc12-4854-ad06-d39e1f491c80,46,Female,Low,Nagpur,large screen,entertainment,"Smartphone,Laptop",10000-20000,Beginner
+62ad2fb2-28a0-4c99-9b23-eac691628932,23,Female,Medium,Hyderabad,"lightweight,professional design",business,"Smartphone,Smartphone",40000-60000,Advanced
+d44464ba-438e-4ed4-8718-8d709250419d,54,Female,Medium,Surat,dedicated graphics,gaming,"Laptop,Smartphone,Smartphone",60000-100000,Beginner
+62274be5-d443-422e-af18-cc9c5de8b63f,20,Female,Low,Mumbai,"compact,lightweight",travel,"Laptop,Smartphone,Laptop",10000-20000,Advanced
+3e435206-f20f-41bf-8302-37463b928bea,65,Male,High,Pimpri-Chinchwad,"compact,lightweight,long battery",travel,"Smartphone,Smartphone",60000-100000,Beginner
+9bca4116-d2bf-4e5f-9d96-e95ba07ef4f5,59,Female,Low,Mumbai,fast processor,gaming,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+11b6edf2-113c-4225-8952-136762e42198,43,Female,Medium,Lucknow,"compact,long battery",travel,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+9a0a6979-b05d-4a0f-aa24-bac35439f1bd,59,Male,Low,Chennai,high resolution,entertainment,Laptop,20000-40000,Intermediate
+56218ead-5d6c-4251-bd2f-38035b33b126,30,Female,Medium,Pimpri-Chinchwad,"long battery,budget-friendly,stylus support",education,Laptop,20000-40000,Advanced
+b65247b2-af33-4de3-9f36-0c1e61558f59,65,Female,Low,Indore,"camera quality,good storage,high resolution",photography,Laptop,10000-20000,Intermediate
+85ec9ade-43a1-475e-b513-fd3f3a7a0afc,34,Female,High,Patna,"good speakers,large screen",entertainment,Smartphone,150000+,Beginner
+56b862d9-ea2d-4bb5-9f7d-fecd4a9b5e66,19,Female,Low,Ahmedabad,"high performance,dedicated graphics",gaming,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+736dd7cb-7dd2-431d-b9ba-61452cc59e48,44,Female,Low,Surat,fast processor,gaming,Laptop,10000-20000,Beginner
+2ae81aa5-c15e-467c-abc6-cbc2eb192f0e,48,Female,High,Kolkata,high resolution,entertainment,Smartphone,60000-100000,Beginner
+8fc1a8e4-dec4-4b71-82bd-a0dcf5cd47dc,34,Female,Low,Hyderabad,long battery,education,Smartphone,20000-40000,Advanced
+f761ba1a-b3c3-4c3d-beee-173b02c845e4,59,Male,Medium,Ahmedabad,camera quality,photography,"Laptop,Laptop",40000-60000,Intermediate
+5feb51b7-eef9-4124-a31f-ef3dcc0f250d,52,Male,High,Vadodara,long battery,business,"Smartphone,Laptop,Laptop",60000-100000,Intermediate
+00308ce2-0c78-4fab-9db5-b9827939120e,27,Male,Medium,Pimpri-Chinchwad,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",60000-100000,Advanced
+34b1737a-df41-46fd-857e-d3a0c9cf1bba,25,Male,Low,Pimpri-Chinchwad,fast processor,gaming,Laptop,20000-40000,Intermediate
+28247103-f1c4-4afe-9485-46366dcd208b,31,Female,Medium,Bangalore,camera quality,photography,Laptop,20000-40000,Beginner
+3d240547-c96d-4214-9369-9503ab40c18d,52,Female,High,Hyderabad,"compact,lightweight,long battery",travel,Smartphone,150000+,Intermediate
+d901bb97-ec75-4f64-9e42-81a9c196d5d9,53,Male,Low,Thane,long battery,travel,Laptop,20000-40000,Beginner
+452fbb1f-373e-478b-ac80-a9ef118b92ff,54,Female,Medium,Bangalore,"long battery,lightweight,professional design",business,Laptop,60000-100000,Intermediate
+0fbe968c-4248-4615-97d0-3cd07e7aac07,42,Male,High,Bangalore,"camera quality,good storage,high resolution",photography,Smartphone,100000-150000,Advanced
+421dc6c7-bef5-4d20-86ef-d4a20c9dc081,20,Male,Medium,Kolkata,"long battery,budget-friendly,stylus support",education,Smartphone,40000-60000,Intermediate
+f382f04e-c671-4455-848d-a08918aa2b11,25,Male,Low,Pune,"long battery,lightweight,compact",travel,"Laptop,Smartphone",20000-40000,Intermediate
+33e0bbde-3fce-4660-a77d-e8ab1f527bdd,34,Male,High,Kanpur,"good speakers,large screen,high resolution",entertainment,Laptop,60000-100000,Intermediate
+fd823fe3-51d6-47a5-a26f-dee5d12ae00c,25,Female,Low,Pimpri-Chinchwad,"high performance,dedicated graphics",gaming,"Smartphone,Laptop",20000-40000,Advanced
+43aa989f-8ccd-42b4-911a-7cf0257a2e87,43,Male,Medium,Patna,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Smartphone",60000-100000,Advanced
+d160f6e5-6241-4660-a5c2-927466730397,58,Female,Low,Jaipur,high resolution,entertainment,"Smartphone,Laptop",10000-20000,Beginner
+643dbe50-e5ee-449f-b0e1-b0bb6f372515,31,Female,Low,Thane,"long battery,lightweight",business,"Smartphone,Smartphone",10000-20000,Intermediate
+50845847-ee34-4be4-881d-d3081eca2175,60,Female,Medium,Thane,budget-friendly,education,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+11e5c95c-b25c-44e3-9324-cfc293f41e1b,48,Male,Medium,Pimpri-Chinchwad,"high performance,dedicated graphics",gaming,Laptop,20000-40000,Beginner
+1e72e867-d0b9-463c-a98f-37c0dfe79ef5,58,Male,Low,Kanpur,"high performance,dedicated graphics",gaming,Smartphone,20000-40000,Beginner
+91c36890-cb5a-4849-979b-b51e8a9883f7,65,Female,Medium,Surat,"large screen,high resolution",entertainment,Smartphone,20000-40000,Intermediate
+92e83bb3-6336-4c6d-8023-f443e818b39a,33,Male,High,Delhi,"budget-friendly,stylus support",education,Laptop,150000+,Advanced
+9c438746-12dd-41b7-ae9d-5db8e65df802,59,Female,Low,Bangalore,camera quality,photography,"Laptop,Laptop,Smartphone",10000-20000,Beginner
+1c27401c-8285-48c3-9bb0-fae67178b099,27,Male,High,Thane,"camera quality,good storage",photography,Smartphone,150000+,Intermediate
+ebab471b-30c3-445e-b0a5-83d0986b5c8e,59,Male,Low,Mumbai,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",10000-20000,Beginner
+77e0b608-1677-4806-96b9-b926069ff8e2,54,Female,Medium,Jaipur,"camera quality,good storage",photography,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+1d5d6929-d4ea-4e57-a472-f86d7a0f3f1a,55,Female,Low,Vadodara,long battery,business,Laptop,20000-40000,Beginner
+a372d1dd-e180-4842-80cd-ddda317a74e9,22,Female,Low,Kanpur,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",10000-20000,Advanced
+9f8731ac-086a-47c2-829a-3d7eccfe8854,21,Female,Low,Bhopal,high resolution,entertainment,Laptop,10000-20000,Advanced
+9a732d17-4646-404f-a0b4-6d34b098a19a,41,Female,Low,Vadodara,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+48464f9c-9f59-4ddf-be28-28cb0560ac42,43,Female,High,Lucknow,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone,Smartphone",60000-100000,Advanced
+a0d8b8c3-8f52-4fb8-991b-6e0a8e73a64f,28,Female,High,Kanpur,"compact,lightweight,long battery",travel,Smartphone,60000-100000,Beginner
+019f9ab7-bf44-4af4-817c-fcf2cdb3c13c,63,Female,Low,Chennai,"good speakers,large screen",entertainment,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+46387d76-8616-4030-a931-6b0700d12488,56,Female,Low,Surat,"long battery,lightweight",business,"Smartphone,Smartphone",20000-40000,Intermediate
+af8285c6-dd1c-44f9-954a-b573059ef6a0,29,Female,High,Surat,"compact,lightweight",travel,Laptop,100000-150000,Beginner
+a799c66b-5e06-419c-afd2-c8358d175b08,63,Non-Binary,Medium,Bangalore,"long battery,lightweight",business,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+c35abbe5-fa57-4b69-a485-ec595fc37edc,23,Female,Low,Bangalore,"large screen,high resolution",entertainment,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+3d8dcd85-8803-408f-a768-f8eec91295cb,34,Female,Low,Ahmedabad,"good storage,high resolution",photography,Laptop,20000-40000,Intermediate
+27ddd91c-ef18-4e4d-bded-01c319ed8eb5,31,Male,Low,Nagpur,"long battery,budget-friendly",education,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+e66ecdc5-7371-4214-b3fa-eab361c1221e,50,Male,Low,Bhopal,"good speakers,large screen,high resolution",entertainment,Laptop,10000-20000,Beginner
+c8365aec-ed1d-4b28-b8ce-46b812d072bc,54,Non-Binary,Medium,Indore,"good speakers,large screen,high resolution",entertainment,Laptop,60000-100000,Intermediate
+5f0c1135-b654-4922-919a-c2f2d5c6e61e,55,Female,Medium,Mumbai,good storage,photography,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+3551c050-aaa3-463c-a61b-f4316004ca2d,50,Male,Low,Patna,fast processor,gaming,"Laptop,Laptop,Laptop",10000-20000,Intermediate
+ea7c0190-c0f1-4c63-8c2b-433fa9cc66b6,43,Male,High,Surat,"long battery,lightweight,professional design",business,Smartphone,100000-150000,Beginner
+de1cd873-6682-4c27-a6a6-6400f76d692b,54,Non-Binary,Low,Delhi,large screen,entertainment,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+58bde695-a27d-46ce-a1a2-7d887e54f690,64,Male,Low,Lucknow,"long battery,lightweight",business,"Laptop,Smartphone,Smartphone",20000-40000,Beginner
+822e73b7-1409-4a06-af38-592b305e5f8e,35,Male,Medium,Lucknow,"good storage,high resolution",photography,"Laptop,Smartphone",20000-40000,Intermediate
+23b55321-4bb3-44a6-9c99-a441ae7013e4,24,Female,Medium,Visakhapatnam,"camera quality,high resolution",photography,Laptop,40000-60000,Intermediate
+c447dd18-d16b-41c3-9cb6-398204215fe4,50,Female,High,Jaipur,"budget-friendly,stylus support",education,Smartphone,60000-100000,Beginner
+de7e0ecf-152b-4256-a496-a0e963e960d6,22,Female,Medium,Kolkata,"long battery,lightweight",travel,"Smartphone,Laptop",20000-40000,Advanced
+3d919a54-30b7-4452-8fdd-afa01700f4a8,56,Female,Low,Indore,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+65e37ea7-9c29-40e3-a7ed-faea84a78111,34,Male,Medium,Delhi,"long battery,lightweight,compact",travel,"Laptop,Laptop,Smartphone",40000-60000,Beginner
+0d08b08b-ba76-4fd2-811e-4e502e487109,64,Male,Medium,Pune,"high performance,dedicated graphics,fast processor",gaming,Laptop,60000-100000,Beginner
+401c7ef3-ceff-4488-a86a-7dd5cd6df5d6,45,Female,High,Lucknow,compact,travel,Smartphone,60000-100000,Intermediate
+24094307-6e43-4dd1-893d-86ece75b259e,33,Male,High,Thane,compact,travel,"Smartphone,Smartphone,Smartphone",100000-150000,Advanced
+dbcaea56-251d-446e-b59f-fd6e02f57b71,22,Male,Medium,Hyderabad,high performance,gaming,Laptop,20000-40000,Advanced
+92e8c006-d358-4ba4-849b-d107b51affaa,23,Male,Medium,Indore,"camera quality,good storage,high resolution",photography,Laptop,40000-60000,Advanced
+2f5e01d4-57aa-40a9-819b-c1dd28acba38,52,Male,Medium,Jaipur,"good storage,high resolution",photography,"Smartphone,Laptop",40000-60000,Beginner
+e08d1349-3e19-4732-a105-07f751085327,45,Male,Low,Bangalore,"long battery,lightweight,professional design",business,Smartphone,20000-40000,Intermediate
+237fad37-b2ab-4219-bd8c-2389d1649d93,44,Male,Low,Kanpur,"good speakers,large screen",entertainment,"Smartphone,Laptop,Smartphone",20000-40000,Advanced
+c0befd80-d150-4285-b0e2-1a362fd55c2c,36,Male,Low,Hyderabad,compact,travel,Smartphone,10000-20000,Advanced
+1d020234-8387-444b-9dd3-23eed67758e3,38,Male,Low,Chennai,"lightweight,professional design",business,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+d91b9cd9-9883-403e-8408-5b5585f70f84,54,Female,High,Jaipur,"camera quality,good storage",photography,"Laptop,Smartphone,Smartphone",150000+,Beginner
+a9526825-3516-47e2-ba75-208d4239bc5e,38,Male,Medium,Thane,"long battery,budget-friendly",education,Smartphone,20000-40000,Advanced
+7697c6a3-ee50-43c5-8924-53d6cb94932f,46,Male,Low,Pune,long battery,education,"Smartphone,Laptop",10000-20000,Intermediate
+2e84c8f0-4b13-493c-bf9e-bc9a6e496a81,42,Male,Low,Kolkata,"compact,long battery",travel,"Smartphone,Smartphone",10000-20000,Intermediate
+85f86305-d2d8-45cf-b177-421e87d47491,65,Male,High,Vadodara,"long battery,lightweight,compact",travel,Smartphone,150000+,Intermediate
+86962dda-2d33-45aa-b26b-6fa37197d6a3,55,Male,Low,Delhi,professional design,business,Laptop,10000-20000,Beginner
+266b519c-17eb-4a48-9858-ac4fa37ce53a,41,Male,High,Delhi,"good speakers,large screen",entertainment,"Laptop,Laptop,Laptop",150000+,Advanced
+72a14690-6aaf-4a16-96cd-d01b2abcd537,29,Male,Low,Surat,stylus support,education,"Laptop,Smartphone",10000-20000,Beginner
+b5630c79-4ad5-4f73-960d-f9effb79a7bc,49,Male,Medium,Kanpur,long battery,travel,"Laptop,Smartphone,Smartphone",20000-40000,Beginner
+bfd803b8-ebb2-49ce-8e25-0da2b19e5330,65,Male,Low,Delhi,long battery,business,Laptop,20000-40000,Intermediate
+68d65083-66ab-466a-a486-4a8110f6cee8,35,Male,Low,Vadodara,"camera quality,good storage,high resolution",photography,Smartphone,10000-20000,Intermediate
+dad43808-7cdf-4da6-896b-8fdb170ee128,53,Male,Medium,Jaipur,"camera quality,good storage,high resolution",photography,Laptop,20000-40000,Beginner
+b900ba1f-4717-4249-bcd8-1500e7b3a322,54,Male,High,Mumbai,"long battery,lightweight,compact",travel,Smartphone,60000-100000,Beginner
+ac61d4a2-2563-4ac8-adef-ffdc7128da53,35,Male,Low,Lucknow,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",20000-40000,Beginner
+aa8e92ae-9770-4954-bbb3-326857a44a87,32,Male,Low,Vadodara,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Laptop",20000-40000,Beginner
+ddcf2eaf-333b-4bd4-83f6-43d1708913fb,38,Female,High,Pune,"compact,lightweight,long battery",travel,"Smartphone,Smartphone",60000-100000,Beginner
+f2dc55f0-5a29-4db6-97d9-a6677289abfa,29,Female,Medium,Kolkata,"long battery,lightweight,professional design",business,Laptop,60000-100000,Intermediate
+e34b1f59-bfae-40f5-b552-0c794ab51e43,23,Male,Low,Bhopal,"long battery,lightweight,compact",travel,"Smartphone,Smartphone",20000-40000,Intermediate
+e62694e1-ae7b-4fcd-ba08-e5b744caa407,55,Female,Low,Lucknow,"high performance,fast processor,dedicated graphics",gaming,Laptop,20000-40000,Beginner
+c410cbda-daa2-4e29-9a35-77b79d3a1c0a,22,Female,High,Ahmedabad,stylus support,education,"Smartphone,Laptop",60000-100000,Intermediate
+184d4db0-59c5-4e72-8152-0d941e0c728f,35,Male,Medium,Mumbai,"compact,lightweight",travel,Laptop,40000-60000,Intermediate
+cd218940-8a62-4a1d-a08d-03f47be6d4ba,28,Male,Medium,Nagpur,camera quality,photography,"Laptop,Laptop",60000-100000,Intermediate
+482523f7-b1bf-4d15-ae4d-f9ebe774c43d,38,Female,Medium,Pune,"high performance,dedicated graphics,fast processor",gaming,Smartphone,20000-40000,Beginner
+ed505a04-e1c1-4282-a192-634accb1156f,52,Female,Medium,Chennai,"long battery,budget-friendly",education,"Laptop,Smartphone,Laptop",60000-100000,Intermediate
+46ba7fa7-fbc9-4d12-aee2-78790c44ca16,47,Female,Medium,Kanpur,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Smartphone",40000-60000,Beginner
+67fa039e-04a1-4234-9384-0d541a5c1c47,35,Female,Low,Bangalore,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+edd1c221-9bbc-4c55-ba79-f2da7c109263,42,Male,High,Chennai,"long battery,professional design",business,"Smartphone,Laptop",150000+,Intermediate
+254f046b-2f59-4310-9514-b734054dc076,64,Male,Medium,Mumbai,"high performance,dedicated graphics,fast processor",gaming,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+6defb536-1742-45a8-86ae-0d0de878d20a,36,Non-Binary,High,Patna,"camera quality,good storage",photography,"Smartphone,Laptop",100000-150000,Intermediate
+c9378ed4-cf77-4f5e-b004-d44995c99f4e,56,Female,Low,Hyderabad,"long battery,lightweight,professional design",business,Smartphone,10000-20000,Beginner
+2e288ad5-6490-44f1-92b4-48376591cb65,33,Male,High,Surat,"good speakers,high resolution",entertainment,"Smartphone,Laptop",150000+,Intermediate
+8e62f22d-ce12-4b69-9741-51a7e25e9a6a,46,Female,Low,Jaipur,long battery,travel,"Laptop,Laptop,Laptop",10000-20000,Beginner
+57936b48-1c13-40f6-b21c-ff3b126fa905,49,Female,High,Mumbai,"long battery,lightweight",travel,"Smartphone,Laptop,Laptop",150000+,Intermediate
+81783e7d-18f3-493f-b479-63901423b7e0,50,Male,Medium,Visakhapatnam,"long battery,lightweight",travel,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+b645ce90-0a9b-46db-8460-38404305cf29,51,Female,Medium,Kolkata,"long battery,professional design",business,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+db04054b-5e22-4835-9ead-e964216105ae,53,Female,Low,Patna,"good speakers,large screen,high resolution",entertainment,Smartphone,10000-20000,Intermediate
+ec0f6e7f-f765-4805-a2c4-050d16dfdbbe,57,Female,Medium,Bangalore,high performance,gaming,Laptop,40000-60000,Intermediate
+81378de9-d2f3-4f77-b8b6-843df3e3e290,32,Male,High,Bangalore,"good storage,high resolution",photography,"Smartphone,Laptop,Smartphone",100000-150000,Intermediate
+0f84c1e3-3f5a-4e19-b2c7-51a1e223f82e,40,Female,Low,Kanpur,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",20000-40000,Advanced
+9949050c-634e-4eb5-bfa1-2bf92f14be3a,33,Male,Low,Nagpur,camera quality,photography,"Smartphone,Laptop",20000-40000,Beginner
+a06e318a-643f-41b4-a035-ec847aeb3d4c,35,Female,High,Thane,professional design,business,"Smartphone,Laptop,Smartphone",100000-150000,Beginner
+6982e11e-e04b-4d16-9b6e-e8e88730d9b2,60,Female,High,Kanpur,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop,Smartphone",60000-100000,Beginner
+1ec1e390-bfc1-4e39-a210-832202e3902f,37,Male,Medium,Hyderabad,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",40000-60000,Advanced
+f8d5c2b2-7960-4966-89d6-27176a367c2a,42,Female,Medium,Indore,"camera quality,good storage,high resolution",photography,Laptop,20000-40000,Intermediate
+5ee67dca-9503-4f3f-bbd4-771b1e72869d,41,Female,Medium,Pimpri-Chinchwad,"camera quality,high resolution",photography,Laptop,20000-40000,Beginner
+cf69bc3f-57a5-48d6-9943-110909bc434d,19,Male,Medium,Indore,"long battery,lightweight",business,"Smartphone,Laptop",60000-100000,Advanced
+5ab4dc3f-06ff-4d6b-8e25-480037380dff,48,Male,Medium,Kolkata,long battery,travel,"Smartphone,Smartphone",20000-40000,Beginner
+dc6014dc-7957-42d0-8f75-f9cb76ccadb7,61,Female,High,Lucknow,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone,Smartphone",60000-100000,Intermediate
+1c45f211-db8c-447f-ae19-9713a100a1c4,18,Female,Medium,Bhopal,good speakers,entertainment,Smartphone,60000-100000,Advanced
+b7480492-7a28-45b8-9674-59e1d1d865e0,58,Male,High,Thane,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone,Smartphone",150000+,Intermediate
+726c5ea4-0e8c-46dd-9da6-2d897a221d6c,19,Female,Low,Indore,"high performance,dedicated graphics",gaming,Laptop,20000-40000,Advanced
+c0b2d484-ad88-4d28-83b2-2b37d13d92a7,46,Male,Medium,Pimpri-Chinchwad,dedicated graphics,gaming,"Smartphone,Laptop",20000-40000,Intermediate
+1e4b4e8c-4f7a-4e48-8782-803798cd4f88,53,Female,High,Nagpur,"compact,long battery",travel,Smartphone,150000+,Beginner
+8cd13b13-8daf-41f5-949e-294ba1cb92f7,51,Non-Binary,Medium,Jaipur,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone",20000-40000,Beginner
+4b0b2ca5-9843-422b-9bac-eeb239107d48,25,Female,Medium,Nagpur,compact,travel,"Smartphone,Smartphone,Laptop",60000-100000,Advanced
+27c170e6-2552-49f0-a996-2df8dd4ffb31,40,Female,Medium,Mumbai,lightweight,business,"Smartphone,Laptop,Laptop",40000-60000,Beginner
+9ab1648d-3611-45d0-9ffe-e1eeae849991,32,Male,Low,Jaipur,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone",20000-40000,Beginner
+728575b1-e9a3-4146-aad1-187785b3305f,65,Male,Low,Hyderabad,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop,Smartphone",10000-20000,Intermediate
+df14a63f-6483-4240-84bb-62d404d637c3,27,Female,High,Bangalore,"camera quality,high resolution",photography,"Smartphone,Smartphone",150000+,Advanced
+7b7672e7-dcab-4f55-90a7-3e286987b941,18,Male,Low,Bhopal,"budget-friendly,stylus support",education,Smartphone,20000-40000,Intermediate
+8b6aa810-3ca4-4179-ae5b-eeac19236ef7,54,Female,Medium,Chennai,large screen,entertainment,Laptop,40000-60000,Intermediate
+ba444a4b-4157-4bdc-bbc6-c69ed2d8fc1a,46,Male,Medium,Pune,"good storage,high resolution",photography,Smartphone,40000-60000,Beginner
+0cd4a190-9482-4fdc-8cf2-5462a4df4fe5,47,Male,Medium,Lucknow,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+9c04767d-cf94-4acd-bdac-e3505afea3c1,54,Non-Binary,Low,Jaipur,"long battery,lightweight,compact",travel,"Smartphone,Smartphone",10000-20000,Beginner
+28beac1c-3185-4363-9e7e-1fb4d7a8c5c7,36,Male,Low,Patna,"lightweight,professional design",business,"Laptop,Laptop",10000-20000,Intermediate
+909340c9-5432-4d0a-a3c3-aefc1de21321,25,Female,Medium,Bangalore,"compact,lightweight,long battery",travel,Smartphone,20000-40000,Advanced
+6b8899f6-3562-4558-b6d3-5ce3945e0c17,38,Male,Medium,Delhi,"long battery,compact",travel,Laptop,40000-60000,Advanced
+67d313d9-7123-4c0b-8c7e-31ca71cdbe8f,23,Female,Low,Chennai,"long battery,professional design",business,"Smartphone,Laptop,Laptop",20000-40000,Intermediate
+3aedc02c-a56b-4d66-95b1-987a4ad1f3de,55,Female,Medium,Kanpur,"camera quality,good storage",photography,"Smartphone,Smartphone",60000-100000,Beginner
+62acdff0-83f8-4569-a393-c7961e39f116,64,Female,Medium,Thane,"long battery,lightweight,professional design",business,"Laptop,Laptop",40000-60000,Beginner
+9e5af4c5-bf6d-470c-869c-0a41d103e23f,36,Non-Binary,Low,Mumbai,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+15673f04-7aa4-4b49-9603-4c71e9845249,42,Male,Low,Patna,long battery,education,"Laptop,Smartphone,Laptop",20000-40000,Intermediate
+03da23db-7b6f-44fe-a52f-760ca8496a5e,25,Female,Medium,Thane,"long battery,budget-friendly,stylus support",education,Smartphone,40000-60000,Advanced
+63ce2667-7ce2-4c5d-b2cd-d05e1d74eef7,22,Male,High,Kolkata,compact,travel,"Laptop,Laptop",100000-150000,Advanced
+b5b870bc-2fd5-4c6a-a009-e64e7dbf64a2,58,Female,Low,Ahmedabad,"budget-friendly,stylus support",education,Laptop,20000-40000,Beginner
+70cdbf01-07b0-4fac-83f3-ac07e5b611ae,18,Female,High,Indore,"fast processor,dedicated graphics",gaming,Smartphone,150000+,Advanced
+9ffe116d-835c-4ffd-8a0f-5d7835dc642f,34,Non-Binary,Low,Indore,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone",10000-20000,Beginner
+62488b80-31d4-4582-bd60-ba6a34355795,52,Male,Medium,Jaipur,"long battery,budget-friendly,stylus support",education,Smartphone,20000-40000,Beginner
+e9b1709a-b3a2-4dde-a313-6a98ad3a8d67,49,Male,Low,Surat,"camera quality,high resolution",photography,"Laptop,Laptop",10000-20000,Beginner
+b14362ec-a6b7-4d65-8bc7-bd7b3d5d8876,18,Female,Medium,Mumbai,"lightweight,professional design",business,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+e4bc5794-2e37-462c-bdfe-dd05defb5622,45,Female,Low,Indore,long battery,travel,"Smartphone,Smartphone,Smartphone",20000-40000,Advanced
+ce328767-46e9-4333-894c-836b9fad02d5,19,Female,Low,Pimpri-Chinchwad,"good speakers,large screen",entertainment,Laptop,20000-40000,Advanced
+2721c2ef-26c0-421e-a11e-f1c5e5cae8b1,55,Male,Low,Delhi,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+8745ae65-350d-4e8a-a9fb-a7182c1402ef,21,Female,Low,Bangalore,"camera quality,high resolution",photography,"Laptop,Smartphone",20000-40000,Intermediate
+3c79454a-bf66-4168-b84c-6a648d58ddfd,53,Female,Low,Bangalore,dedicated graphics,gaming,"Smartphone,Laptop,Laptop",10000-20000,Beginner
+a2e51e2c-fb14-4a78-b972-d85c28aad693,64,Male,Medium,Pune,"fast processor,dedicated graphics",gaming,"Smartphone,Laptop",40000-60000,Intermediate
+949be3db-02e1-42de-9183-9809ee9c8c36,46,Male,Medium,Chennai,"long battery,budget-friendly",education,"Laptop,Laptop,Smartphone",40000-60000,Beginner
+115a64e0-fd9d-40a7-b8cc-ccab1814604f,42,Female,Medium,Delhi,"camera quality,good storage",photography,"Laptop,Smartphone",20000-40000,Intermediate
+0476308e-0a8f-4f40-b822-90f0653018c2,56,Male,Medium,Patna,good storage,photography,"Laptop,Laptop",60000-100000,Beginner
+db279d32-05fb-4055-a5f9-442579caaaf9,18,Female,Low,Jaipur,"budget-friendly,stylus support",education,Laptop,20000-40000,Advanced
+b838f02a-5ee5-4673-adcf-78ed2daa0e4f,31,Male,Low,Kanpur,"long battery,budget-friendly,stylus support",education,Laptop,10000-20000,Advanced
+fab8d959-c9da-45e6-96cb-5c8b038b4498,18,Male,Low,Thane,compact,travel,"Smartphone,Laptop,Smartphone",20000-40000,Advanced
+f1b383ad-5366-4121-9972-f4521f95cb6d,51,Male,Medium,Patna,"long battery,stylus support",education,"Laptop,Laptop",40000-60000,Beginner
+9e56ac0d-ba16-4af9-9f6a-fe134d3d5800,36,Male,Medium,Bangalore,stylus support,education,"Smartphone,Laptop",40000-60000,Advanced
+8fa2c649-2209-4a1d-8b8f-b85351b145ca,43,Male,Low,Jaipur,fast processor,gaming,"Laptop,Smartphone,Laptop",20000-40000,Intermediate
+52de3c52-2a73-4ce7-87b8-2e59a5ba2d47,46,Female,Medium,Surat,"high performance,dedicated graphics,fast processor",gaming,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+167102a3-87ee-4933-b8af-929394cc56e1,46,Female,Medium,Jaipur,professional design,business,Laptop,40000-60000,Intermediate
+47b6fd46-480e-4425-b15c-bda10f0f1984,54,Female,Low,Lucknow,"long battery,professional design",business,"Smartphone,Smartphone",10000-20000,Beginner
+77027075-a536-45fe-bc1f-c0e7923911dc,19,Female,Medium,Indore,"camera quality,good storage",photography,Laptop,60000-100000,Intermediate
+93fe4ef2-6086-4a33-9961-fc0ddffa57a2,29,Female,Low,Lucknow,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop",20000-40000,Intermediate
+a522acb4-8206-4f6c-80e8-55f0da4799ee,36,Male,High,Visakhapatnam,good speakers,entertainment,"Laptop,Smartphone",100000-150000,Advanced
+12da64f4-6dfe-4d85-8741-a573bb6fd9bf,65,Male,Medium,Nagpur,fast processor,gaming,"Laptop,Smartphone",60000-100000,Beginner
+c16046a1-0593-45ab-a492-253e2bdb9911,32,Male,Medium,Jaipur,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop",20000-40000,Intermediate
+66c3b4cc-e260-4a0e-a177-063a42288791,18,Female,Medium,Patna,"compact,lightweight,long battery",travel,Laptop,20000-40000,Advanced
+5698a6ba-e3e3-472c-b505-09618de5d1ee,49,Female,Low,Lucknow,dedicated graphics,gaming,"Smartphone,Laptop",10000-20000,Beginner
+4fbe38cb-3543-40be-a120-c5e9c4fe0a30,29,Female,Low,Lucknow,"high performance,dedicated graphics,fast processor",gaming,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+a6774165-2876-4b13-8170-5c33086cf621,47,Male,High,Lucknow,"long battery,lightweight,professional design",business,"Smartphone,Laptop",60000-100000,Beginner
+f52d7548-d64d-4d31-8e1f-72d5ffa1b757,53,Female,Low,Patna,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",10000-20000,Beginner
+feb57ad6-35aa-4f8d-a60e-486656dd463a,62,Female,Low,Nagpur,"camera quality,high resolution",photography,Laptop,20000-40000,Beginner
+288c41e8-80bc-438e-b0c5-de6bf5cdf0b7,30,Male,Low,Thane,budget-friendly,education,Laptop,20000-40000,Intermediate
+126e63f8-6cb2-4fb9-98be-79e33be49b6b,36,Male,Low,Pimpri-Chinchwad,high resolution,photography,"Smartphone,Laptop",20000-40000,Intermediate
+9da84beb-4694-422d-ba61-8eb8a62e630c,62,Male,Low,Kanpur,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+8848de37-245d-4de8-a91d-7ee3e6ca8a50,44,Male,High,Hyderabad,professional design,business,"Smartphone,Smartphone",60000-100000,Intermediate
+674e99aa-a868-419d-963e-bbccc5f2f885,39,Male,Low,Surat,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+04f95f9b-69b0-4b8d-b60e-57cbb966bf3c,44,Male,High,Bhopal,long battery,business,"Laptop,Laptop,Laptop",100000-150000,Advanced
+b790aa9c-13a5-4cd1-9605-c4116198369a,34,Female,Low,Pune,good storage,photography,"Smartphone,Laptop",10000-20000,Intermediate
+2865cc70-eb6d-4933-8518-ee6f667bd38e,35,Female,Medium,Ahmedabad,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Smartphone",20000-40000,Intermediate
+436c16d3-0e5f-4dbf-88a3-5d86e184feb0,65,Male,High,Thane,"large screen,high resolution",entertainment,Smartphone,60000-100000,Intermediate
+253c84aa-963e-41ab-b4c1-fdcac971ac99,28,Male,Medium,Kolkata,"compact,lightweight,long battery",travel,"Laptop,Smartphone",60000-100000,Advanced
+94327916-9c32-46db-99e0-8b7807eb64a5,39,Male,Medium,Bhopal,"long battery,budget-friendly,stylus support",education,Smartphone,40000-60000,Intermediate
+e9a26daa-a47b-43a8-8e82-1580ec24413d,43,Male,High,Vadodara,professional design,business,Smartphone,60000-100000,Advanced
+4e40884b-a390-4bbe-b672-91772cdb747e,58,Male,Low,Patna,"good storage,high resolution",photography,Laptop,20000-40000,Beginner
+d7dc2e81-d6d5-4f75-921e-47f2ffd5edb8,20,Female,Low,Lucknow,"camera quality,good storage",photography,Laptop,10000-20000,Advanced
+f06cfcf7-f6b7-4415-b853-6a12f421ec74,57,Male,Low,Hyderabad,"fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",10000-20000,Beginner
+b6d52fb9-c7ef-4328-9391-e22cadcd64f2,30,Female,Medium,Pimpri-Chinchwad,lightweight,travel,"Laptop,Laptop,Smartphone",40000-60000,Advanced
+c6576736-ef41-4799-b304-37723103e9d5,33,Female,Medium,Patna,"camera quality,high resolution",photography,Laptop,20000-40000,Intermediate
+a9d91727-1303-453c-acbb-2ede9bc50477,36,Male,High,Hyderabad,"long battery,lightweight,compact",travel,Laptop,60000-100000,Intermediate
+601b1702-4d3b-4af0-af82-7bb940d23771,56,Female,Low,Indore,lightweight,travel,"Laptop,Laptop,Laptop",10000-20000,Beginner
+dbdce57c-9b7d-46b6-bbb0-a4361dd9c76b,34,Female,High,Thane,lightweight,travel,"Laptop,Laptop",150000+,Advanced
+7e5d7b31-0aa7-4a06-beb3-6a41ba2d83c4,63,Female,Low,Kanpur,"compact,long battery",travel,"Laptop,Laptop",10000-20000,Beginner
+193e39bb-e1a0-4761-9e35-18013893ed45,36,Male,Low,Visakhapatnam,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Laptop",10000-20000,Intermediate
+155c2dff-900f-4fbe-a42c-283e457446c9,51,Male,Low,Patna,"camera quality,good storage",photography,"Laptop,Laptop",20000-40000,Intermediate
+8f8200e7-496c-441a-86ab-f3ee5d2158ba,19,Female,Low,Vadodara,"long battery,lightweight,compact",travel,"Smartphone,Smartphone",20000-40000,Advanced
+58a76f93-67a5-4a0f-b2d0-c406fd55167f,18,Male,Low,Thane,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone",10000-20000,Advanced
+580c32f2-b119-4a53-bdc6-910da8ba3ffe,59,Female,Medium,Jaipur,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Laptop",60000-100000,Beginner
+b352aab0-d88b-42de-a857-23efcf17e4ba,48,Female,High,Kanpur,"good speakers,large screen",entertainment,Laptop,150000+,Beginner
+03cc26e0-4021-412e-8001-e1d2123ff694,26,Female,Low,Nagpur,"compact,long battery",travel,Laptop,10000-20000,Intermediate
+ba0ffc29-c4e8-4c53-9987-89fcff18e40d,39,Female,Low,Kanpur,"long battery,budget-friendly,stylus support",education,Laptop,20000-40000,Intermediate
+1e8d4bfa-961b-4e4f-9313-2ef8061485c0,43,Non-Binary,Medium,Jaipur,"camera quality,high resolution",photography,Laptop,60000-100000,Intermediate
+a5990632-24c1-4b67-9cd7-d3145989ccaf,56,Non-Binary,Low,Lucknow,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+bbdad0c7-ee76-4562-9527-015ec2b8e96a,57,Male,Low,Lucknow,long battery,travel,Smartphone,20000-40000,Beginner
+caf50b2f-cea3-49af-b5b8-5c7e5fe8ed43,40,Female,Low,Ahmedabad,"good speakers,high resolution",entertainment,Smartphone,20000-40000,Beginner
+4c4c8929-b8e9-48a4-9dd7-3f3add2ce873,30,Male,Medium,Indore,"camera quality,good storage,high resolution",photography,"Laptop,Laptop",60000-100000,Intermediate
+231bc320-04d8-4fd8-b733-1b40f59d5b14,37,Male,Medium,Pimpri-Chinchwad,"high performance,dedicated graphics",gaming,"Laptop,Laptop,Laptop",40000-60000,Beginner
+883c54e0-67e3-4bad-8d90-d8fb1c7817fb,55,Female,Medium,Thane,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+6b6e5e18-9f3e-4282-ab05-0a5629559299,47,Male,High,Indore,"long battery,budget-friendly,stylus support",education,Laptop,100000-150000,Beginner
+14b1891b-fc11-423e-8728-e7523b7b3b87,65,Female,Low,Indore,budget-friendly,education,"Smartphone,Smartphone",20000-40000,Beginner
+48fec4b4-77d0-4f72-b8f8-b8770cc9484e,38,Female,Low,Pimpri-Chinchwad,"camera quality,good storage,high resolution",photography,Smartphone,10000-20000,Advanced
+64f37e86-05e8-4a40-8070-2f04468f5c20,43,Female,Medium,Indore,"long battery,stylus support",education,Laptop,20000-40000,Intermediate
+3e4705c8-89bd-4c60-9dbf-d6d47a36b2da,18,Female,Low,Vadodara,professional design,business,"Laptop,Laptop",20000-40000,Advanced
+5b84956b-27f0-45e7-855a-16d9c8a18a59,23,Male,Medium,Hyderabad,"camera quality,high resolution",photography,Smartphone,20000-40000,Advanced
+080d85bc-0f35-4e28-94a6-526e6730e1ee,20,Male,High,Visakhapatnam,"good speakers,large screen,high resolution",entertainment,Laptop,60000-100000,Advanced
+f8f35046-1ca7-40fe-96aa-be4eff1d1e51,37,Female,Medium,Indore,"lightweight,professional design",business,"Laptop,Smartphone,Laptop",40000-60000,Intermediate
+8ff16ff2-ac53-45dc-92f0-68844e01f20f,57,Male,High,Bangalore,"high performance,fast processor",gaming,"Smartphone,Laptop",100000-150000,Intermediate
+89028b85-31ae-4e9f-b54d-67676202ea0a,62,Male,Medium,Lucknow,good storage,photography,"Smartphone,Smartphone",20000-40000,Beginner
+0e9c2267-528e-4db2-9114-76bae11810f3,60,Female,High,Thane,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone",60000-100000,Beginner
+1bb04aa7-a146-4e38-aa42-fee7baa07ff3,55,Male,Medium,Surat,"long battery,professional design",business,"Laptop,Laptop",40000-60000,Beginner
+616a918e-de84-44ab-95d0-a17108efb50a,33,Male,Low,Kanpur,long battery,travel,Smartphone,20000-40000,Advanced
+812e1651-bdd2-4061-a04b-d6f680ad7db5,59,Non-Binary,Low,Lucknow,budget-friendly,education,"Laptop,Laptop",20000-40000,Beginner
+7910c7cd-6234-4870-88d8-348ad4abcfdc,31,Male,Medium,Mumbai,camera quality,photography,Smartphone,20000-40000,Intermediate
+8876b350-8893-45da-811b-ef8c497c36a7,37,Female,Low,Nagpur,"long battery,lightweight,professional design",business,"Smartphone,Smartphone,Laptop",10000-20000,Intermediate
+6149816a-62bc-41b9-8dc9-06719fd8452e,50,Female,High,Patna,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop",150000+,Intermediate
+b8df09db-41e1-403f-904a-fa04cfdd77ea,64,Male,Medium,Hyderabad,"long battery,lightweight,professional design",business,Laptop,20000-40000,Beginner
+a8ee2049-5961-4581-a1db-50ebc19f6c41,22,Male,Medium,Patna,good speakers,entertainment,"Smartphone,Smartphone,Laptop",40000-60000,Advanced
+b7fb838c-baa2-480d-bbae-9f85dea46497,50,Female,Low,Bhopal,long battery,travel,"Laptop,Laptop",10000-20000,Beginner
+3b10aeca-2b7c-4351-a0c7-85af31124715,35,Female,Low,Ahmedabad,"high performance,fast processor",gaming,"Smartphone,Laptop",20000-40000,Intermediate
+e5bc9288-464e-4ec4-a31b-6873dcc054a5,27,Female,Medium,Visakhapatnam,good storage,photography,Smartphone,60000-100000,Intermediate
+f02160a0-0eb8-4a28-a735-9520f5ba3434,18,Female,Low,Visakhapatnam,"long battery,lightweight,compact",travel,"Smartphone,Laptop",20000-40000,Advanced
+704b856f-d59c-4e63-b9fb-3aa4152968e9,54,Male,High,Bangalore,"camera quality,good storage,high resolution",photography,Laptop,100000-150000,Beginner
+5ce27931-1fdc-4f1e-b327-7a71840fcbad,34,Male,Medium,Jaipur,"good speakers,large screen",entertainment,"Laptop,Smartphone,Laptop",40000-60000,Advanced
+77f63a8d-7b6f-443e-bea1-dc0b07ba03d3,47,Female,Medium,Bhopal,long battery,education,"Smartphone,Laptop,Laptop",60000-100000,Beginner
+e9b928f9-ae15-42e8-8ed0-a57896e10002,48,Male,Low,Kanpur,long battery,travel,"Smartphone,Smartphone",10000-20000,Intermediate
+1bf2805b-119c-45aa-871a-3dbd86ed45a3,24,Female,Low,Bhopal,"compact,long battery",travel,Smartphone,10000-20000,Advanced
+28a515b0-ccc6-4d13-9bbf-082378d26614,18,Male,Medium,Surat,professional design,business,"Laptop,Laptop,Smartphone",40000-60000,Advanced
+13fb5b80-48df-4ba4-8c87-9c3b0531d881,28,Female,Medium,Ahmedabad,fast processor,gaming,"Smartphone,Smartphone,Laptop",40000-60000,Intermediate
+81b4326b-7557-4118-8688-35f825ff4315,46,Male,High,Lucknow,"compact,lightweight,long battery",travel,"Laptop,Smartphone,Smartphone",100000-150000,Beginner
+30df66bc-68c8-454a-a9b2-c1371bc3d354,18,Male,Low,Indore,"good speakers,high resolution",entertainment,"Smartphone,Smartphone",10000-20000,Intermediate
+78e9931f-9fc8-4ab6-95d0-fa62c747f7be,47,Male,Medium,Chennai,good storage,photography,"Smartphone,Laptop,Smartphone",60000-100000,Beginner
+24e0c3ed-cb7a-4c73-be7d-ff6b00c36fb5,59,Male,Medium,Thane,high resolution,photography,Smartphone,60000-100000,Beginner
+5814b688-4a87-401e-860c-dd091c904248,59,Male,Low,Hyderabad,"compact,lightweight",travel,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+220ec189-b5f6-4489-9dd7-5702199130b5,53,Male,Low,Surat,"long battery,compact",travel,"Laptop,Smartphone",20000-40000,Beginner
+229ff4a0-c9a9-4a70-8b3a-2e828ac0cb92,60,Female,Low,Bangalore,long battery,travel,Smartphone,10000-20000,Intermediate
+949c5386-cf34-49f3-bfc9-65f11dbc7196,48,Female,Low,Visakhapatnam,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+1cbf152c-c06a-428d-991f-c7156e0c49ae,37,Male,Low,Chennai,"long battery,lightweight,professional design",business,"Smartphone,Smartphone,Smartphone",10000-20000,Intermediate
+c59e4e6a-2711-4f8c-99a6-d62553480a18,63,Female,Low,Bangalore,"high performance,dedicated graphics",gaming,"Smartphone,Smartphone",10000-20000,Beginner
+cfcc1695-5cdc-498a-b1b4-61abf5bb964a,26,Male,Medium,Thane,"good storage,high resolution",photography,Laptop,20000-40000,Advanced
+5cfdfc85-e381-41ae-a0f5-98dbf53254ec,40,Female,Low,Kolkata,long battery,business,"Laptop,Laptop",20000-40000,Intermediate
+fa1103ca-59d0-45d8-bd8a-e507a39cb9b6,35,Male,High,Nagpur,long battery,business,Smartphone,60000-100000,Intermediate
+f1370e7b-ac81-41a9-a34e-90e8705a26e9,19,Female,Medium,Pune,fast processor,gaming,"Laptop,Smartphone,Smartphone",40000-60000,Advanced
+ab32cf16-b7ab-4b6a-a43a-0459ff5216ec,52,Female,Low,Bhopal,"long battery,lightweight,professional design",business,Laptop,10000-20000,Beginner
+fd276d1d-667c-4ada-b4ab-cc370ff8c034,33,Female,Medium,Indore,high resolution,entertainment,Smartphone,40000-60000,Intermediate
+6ebe26aa-9803-4755-818d-a8a1028ca76d,25,Male,Low,Pimpri-Chinchwad,"high performance,fast processor",gaming,"Smartphone,Smartphone",10000-20000,Advanced
+feadc300-91a0-4a0a-bd6b-ce52ea86c809,37,Male,Medium,Thane,"good speakers,large screen,high resolution",entertainment,Smartphone,20000-40000,Intermediate
+0f804a16-b44d-4462-8d4a-b2db4c6aafb0,61,Male,Low,Visakhapatnam,high performance,gaming,"Smartphone,Smartphone,Smartphone",10000-20000,Beginner
+bd43783a-9c24-4b56-ac80-4addf18deb8c,29,Female,High,Surat,large screen,entertainment,Laptop,150000+,Advanced
+661be42d-a873-4e52-aada-9ff1a9a86cc3,24,Male,Low,Jaipur,high performance,gaming,"Laptop,Laptop",10000-20000,Intermediate
+db1fdcd8-dd07-40d7-b582-b8c414839c76,65,Female,High,Vadodara,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",150000+,Beginner
+82b64248-fda7-4e23-809b-02d1a3acd327,29,Female,Low,Indore,dedicated graphics,gaming,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+5f70074f-24f2-4541-88d3-dbf5ba4e4954,65,Female,Low,Surat,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Smartphone",20000-40000,Beginner
+017a24ed-6e2d-4f4b-9731-65523f530e7b,18,Male,High,Patna,"long battery,lightweight,professional design",business,Laptop,100000-150000,Intermediate
+b73bc430-6356-4041-b115-415de2eb2655,65,Male,Low,Kanpur,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",10000-20000,Beginner
+7bcc87d8-5791-4888-a366-3b190ef04e8a,29,Male,High,Kolkata,"long battery,lightweight,compact",travel,Smartphone,150000+,Beginner
+8ee2d228-8bf7-40e5-b020-43112e05fdb3,21,Female,High,Pimpri-Chinchwad,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",150000+,Advanced
+5a119abf-e8c5-4595-ae32-529c6d6a0c5c,35,Male,Medium,Ahmedabad,"high performance,fast processor",gaming,"Laptop,Laptop",40000-60000,Advanced
+3db23214-cfdf-4d91-956d-0079b600d85c,59,Male,Low,Kanpur,camera quality,photography,"Smartphone,Laptop",10000-20000,Beginner
+7f29f20a-bed7-4dee-8971-ac723db96c59,25,Male,Medium,Pimpri-Chinchwad,budget-friendly,education,"Smartphone,Laptop,Smartphone",40000-60000,Advanced
+50822162-48d3-411b-aa87-d4a920c273b3,54,Female,Medium,Pimpri-Chinchwad,"budget-friendly,stylus support",education,"Laptop,Smartphone",20000-40000,Intermediate
+4a9d881d-8e09-4366-a9d5-8b0b3701c27f,22,Male,Low,Lucknow,high resolution,entertainment,Smartphone,20000-40000,Intermediate
+6f89db21-cfed-4f22-9dc8-dca31a9e49d2,50,Male,Medium,Kolkata,"high performance,fast processor",gaming,Smartphone,20000-40000,Intermediate
+48baa305-0638-442d-ae86-3ba910e8dd10,42,Female,High,Kanpur,"long battery,lightweight,professional design",business,"Smartphone,Laptop",150000+,Intermediate
+412c3321-ba3d-48db-9dd0-9dcba6dec372,52,Male,Medium,Surat,"long battery,professional design",business,Smartphone,60000-100000,Intermediate
+7c14b68f-3700-420d-a945-5f7404b6778c,53,Male,High,Pimpri-Chinchwad,"long battery,lightweight,compact",travel,Laptop,100000-150000,Intermediate
+154cc429-226f-46b8-9f3d-741f6c22e705,50,Female,Low,Bangalore,stylus support,education,Laptop,20000-40000,Beginner
+a96d350f-99c3-437e-b10b-36c5179285f9,59,Male,Medium,Visakhapatnam,budget-friendly,education,Smartphone,60000-100000,Intermediate
+99405d54-dd2f-41da-b300-009016c2027b,19,Female,Medium,Thane,good storage,photography,"Laptop,Laptop",60000-100000,Intermediate
+5bf27f82-4157-4a96-98d6-7c4ca22f0a96,59,Female,Low,Bhopal,"long battery,lightweight",business,"Laptop,Laptop",10000-20000,Intermediate
+ecd039d2-ea7e-493d-b712-f5ff78fac1d6,61,Female,High,Thane,budget-friendly,education,"Smartphone,Laptop",100000-150000,Beginner
+242e5a4d-de30-4eaa-ab4e-a6624f8fd830,47,Male,Low,Lucknow,"good storage,high resolution",photography,"Smartphone,Laptop",10000-20000,Intermediate
+bbdfeb0a-acc4-423a-87b2-163ea17a251f,31,Male,Medium,Jaipur,"long battery,budget-friendly,stylus support",education,Smartphone,60000-100000,Advanced
+f224b2a0-ab85-4868-93df-9cd47e65b1c9,59,Female,Medium,Thane,"camera quality,good storage,high resolution",photography,Smartphone,20000-40000,Beginner
+bc107fe9-602d-40bf-ade5-ab46bf7f6d1e,25,Female,High,Vadodara,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone,Laptop",150000+,Advanced
+c85d70c0-efaf-4bed-aa53-693d95e999b1,27,Male,Low,Bhopal,high resolution,entertainment,"Laptop,Smartphone",10000-20000,Advanced
+a63d0a00-6a7f-415a-ab3e-0e78f5befc9f,60,Female,High,Jaipur,"compact,lightweight",travel,"Laptop,Smartphone",100000-150000,Beginner
+c29b78f4-e18e-40d1-9e21-73331bc2e97a,21,Female,Medium,Visakhapatnam,"budget-friendly,stylus support",education,Laptop,60000-100000,Advanced
+9a61554b-6ff3-45a9-8413-f5fb90ecf05f,62,Male,Medium,Bangalore,"good speakers,large screen,high resolution",entertainment,Smartphone,20000-40000,Intermediate
+edfc0886-515f-4b51-a87e-f2b44af40050,38,Male,Medium,Mumbai,"long battery,professional design",business,"Smartphone,Smartphone,Smartphone",40000-60000,Beginner
+38548a18-d432-4534-b119-45487f8825e1,62,Non-Binary,Low,Pimpri-Chinchwad,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Laptop",10000-20000,Beginner
+c9a35d8d-b18f-4ee7-b52f-4516af71ccdc,54,Male,Low,Pune,"camera quality,good storage,high resolution",photography,Smartphone,20000-40000,Intermediate
+ccb8a465-b95d-47d4-a2fd-82abff5ac823,59,Female,Low,Indore,"high performance,fast processor",gaming,"Laptop,Smartphone",10000-20000,Beginner
+1cb88316-e662-42ce-b54d-a900ae78e6c4,63,Female,Medium,Indore,"long battery,stylus support",education,"Laptop,Laptop",60000-100000,Beginner
+fe57b42f-f1cc-4bae-a7de-64376ca564a7,48,Female,Low,Chennai,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+6521a448-c743-4f18-a2f5-d2b870a20da4,32,Female,High,Bhopal,long battery,education,Laptop,150000+,Advanced
+d122d863-a8da-4706-a074-eff5259017c6,35,Female,Medium,Kolkata,large screen,entertainment,Laptop,20000-40000,Advanced
+88273d51-a767-45a6-9396-85dcfbbdc454,50,Female,Low,Bangalore,"compact,lightweight",travel,Smartphone,10000-20000,Intermediate
+a9a33b96-b072-438f-b89a-1c4a9b6ee70a,49,Female,Low,Bangalore,high performance,gaming,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+1502c1fa-bca4-47a2-b113-98053e0cfdc6,18,Male,Medium,Bangalore,long battery,travel,"Laptop,Laptop",40000-60000,Advanced
+09ce7522-e400-431b-be44-24077456a156,19,Male,Low,Delhi,"long battery,lightweight,professional design",business,Laptop,20000-40000,Intermediate
+d3c32c5b-945e-465e-be01-9ebdd1013a22,56,Male,Low,Jaipur,"compact,lightweight,long battery",travel,"Laptop,Smartphone",20000-40000,Beginner
+b12da0c5-b1bc-4a6d-afef-17f1d9388f4c,59,Male,Medium,Jaipur,professional design,business,"Laptop,Laptop,Laptop",60000-100000,Intermediate
+f6bddcfa-e0e5-4aec-85f5-8f817647fba6,54,Male,Medium,Nagpur,"long battery,budget-friendly",education,"Smartphone,Smartphone",60000-100000,Intermediate
+e6dc7e7e-bfdd-4998-bb83-9e29782c6951,39,Female,Low,Nagpur,"long battery,lightweight,compact",travel,"Smartphone,Laptop,Laptop",10000-20000,Advanced
+c04c166c-86b2-44da-9f3e-a52b4cf60540,59,Male,Medium,Kanpur,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",40000-60000,Beginner
+4ae13990-cef7-4ad1-91d3-c83eaf19f3e3,26,Male,Medium,Patna,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop,Smartphone",60000-100000,Beginner
+0d4f2990-c5c1-4611-b8d5-e3a4cb3fb840,40,Male,High,Chennai,budget-friendly,education,"Laptop,Laptop",100000-150000,Advanced
+589e7a86-a864-450c-ae0d-44c7cc509289,44,Male,Low,Lucknow,"large screen,high resolution",entertainment,"Laptop,Smartphone,Smartphone",10000-20000,Advanced
+d8701143-f845-49d6-bc4f-9d108bf137b8,49,Female,Medium,Bangalore,long battery,education,"Smartphone,Laptop",40000-60000,Intermediate
+21ad8c03-a8c7-4b50-bfea-b53a5c5d3f02,18,Male,High,Pune,long battery,education,"Laptop,Laptop,Laptop",100000-150000,Advanced
+43383bbc-d49e-486e-bcd5-3f3f50bb3944,36,Female,Low,Visakhapatnam,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone,Smartphone",10000-20000,Intermediate
+3ef23d10-7d5f-43a7-a96d-7969780728da,31,Female,Low,Bhopal,"long battery,professional design",business,Smartphone,20000-40000,Intermediate
+d73ec3e4-31bf-425d-9420-bc1e5b0eb3e4,27,Female,Medium,Hyderabad,budget-friendly,education,Smartphone,40000-60000,Beginner
+418e2477-7b41-431b-a675-d5e632cf4ee9,51,Female,Low,Patna,"compact,lightweight",travel,Laptop,20000-40000,Beginner
+cbe0ca9a-0dd8-4f5a-a879-a7be40a57163,24,Female,Medium,Pune,"good speakers,large screen,high resolution",entertainment,Laptop,60000-100000,Advanced
+27e83c7f-5616-4155-9068-5a3a870c41cc,25,Male,Medium,Surat,good storage,photography,"Laptop,Laptop",20000-40000,Advanced
+37f12e0c-772f-468a-b439-d14d547d8f64,47,Female,Low,Kanpur,large screen,entertainment,Laptop,20000-40000,Beginner
+7de96df3-ff0b-404d-9a86-9910eefc986f,28,Male,Low,Nagpur,"good storage,high resolution",photography,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+f5e4a0fd-0f2c-441e-b825-00b618ab51d9,42,Female,Low,Pimpri-Chinchwad,high resolution,photography,Laptop,20000-40000,Intermediate
+c433caab-13ce-45ad-bd6b-2d885339610d,55,Female,Medium,Surat,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+9b803644-249c-43df-b798-236392479f3b,22,Male,Low,Surat,fast processor,gaming,"Smartphone,Smartphone,Laptop",10000-20000,Advanced
+f91bd9c2-187d-47c3-89e1-73554eceea49,34,Non-Binary,Medium,Nagpur,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone,Smartphone",40000-60000,Intermediate
+cd4a2fcb-4a2e-4b40-b0e5-c99d687def30,42,Male,Low,Surat,"good speakers,large screen",entertainment,"Laptop,Smartphone",10000-20000,Intermediate
+c3fb21d7-0ceb-4323-a0ef-8245533ea127,46,Female,Low,Surat,"good speakers,large screen,high resolution",entertainment,Smartphone,10000-20000,Beginner
+b94ff27d-54e0-4c8e-bbc4-3fff8e1f4a59,18,Female,High,Thane,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",150000+,Advanced
+0a3d3ee0-056e-4492-979e-71f6e134f6ae,49,Male,Low,Hyderabad,"fast processor,dedicated graphics",gaming,"Smartphone,Laptop",10000-20000,Beginner
+efba56dc-2ab2-48f0-bfc4-95a3f0ec4d3d,20,Female,Medium,Patna,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Smartphone",20000-40000,Advanced
+8c829591-cdfb-40e4-9abe-23a6617204f9,26,Male,Low,Kanpur,"long battery,lightweight,professional design",business,Smartphone,20000-40000,Advanced
+88a3f60b-5be7-42eb-8923-490f4f6fcf2d,47,Male,Low,Pune,"long battery,budget-friendly",education,Smartphone,10000-20000,Intermediate
+c7b0a957-121b-4436-9925-532660a14210,27,Female,Low,Kanpur,"good speakers,large screen",entertainment,"Smartphone,Smartphone,Laptop",20000-40000,Advanced
+13b67e0a-d651-4cf4-81e8-4435b428c71f,22,Male,Low,Lucknow,"fast processor,dedicated graphics",gaming,"Smartphone,Laptop",20000-40000,Advanced
+7d5c67e3-1c69-436c-9b00-1c62cd028b4c,28,Female,Low,Surat,"good speakers,large screen,high resolution",entertainment,Laptop,20000-40000,Intermediate
+e653ac08-7817-477b-b1fb-439e72fdf5d6,45,Male,Low,Ahmedabad,good speakers,entertainment,"Laptop,Laptop",20000-40000,Beginner
+22f475e9-5ca5-4ee7-ad36-36f9801b6fdd,47,Female,High,Hyderabad,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone",100000-150000,Beginner
+684abfd0-48d0-4e94-882b-f2b03408b001,52,Female,High,Jaipur,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone",60000-100000,Beginner
+f9757797-c0b9-496f-abea-e656f9348528,62,Male,Medium,Patna,fast processor,gaming,Smartphone,60000-100000,Beginner
+f7bd1390-8d39-4d3a-9e58-782a96c00ef7,60,Female,Low,Kanpur,dedicated graphics,gaming,"Smartphone,Smartphone",20000-40000,Beginner
+bbeb7f8c-ebcd-41b2-a6a9-9156b56a23d9,45,Female,Low,Kanpur,professional design,business,Laptop,20000-40000,Intermediate
+717b1bbf-e1f1-4b60-8209-cee0347bfad1,60,Female,Low,Bangalore,"camera quality,good storage,high resolution",photography,"Laptop,Laptop",10000-20000,Beginner
+2366f233-b748-4c57-8200-8b03298b5bf1,18,Male,Medium,Jaipur,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Smartphone",60000-100000,Advanced
+eb411e01-499e-47a2-bf17-07c747739364,28,Female,Low,Bangalore,long battery,education,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+b06165df-086a-4622-9878-0193afd655c0,20,Male,High,Chennai,"long battery,lightweight,compact",travel,Smartphone,150000+,Intermediate
+8f2df5ad-9ad5-4c77-aeea-1a39d34a0653,52,Male,Low,Kolkata,"long battery,professional design",business,Smartphone,10000-20000,Beginner
+208916d6-2aea-4979-b9f4-31b5985d750a,61,Female,Low,Pune,"high performance,dedicated graphics,fast processor",gaming,"Laptop,Smartphone",10000-20000,Beginner
+0e9b65d1-8590-4b72-a969-3d351895057b,53,Female,Low,Hyderabad,"long battery,budget-friendly",education,"Smartphone,Smartphone,Smartphone",10000-20000,Beginner
+6ad5fde9-bd2f-486e-a8f4-35ce1b2d2c34,44,Male,Low,Chennai,high resolution,entertainment,"Smartphone,Laptop",20000-40000,Intermediate
+2f0f6d4f-a4f5-4cfc-8ab6-b63454bbb44f,40,Male,Low,Hyderabad,"compact,lightweight",travel,Laptop,10000-20000,Intermediate
+1e9299e0-d5c0-4713-943a-84f3ba4db69f,32,Male,Low,Thane,good storage,photography,Laptop,20000-40000,Intermediate
+638e1fba-a2cd-4859-a977-9ac569aa2534,48,Female,Low,Kolkata,"large screen,high resolution",entertainment,"Smartphone,Laptop,Laptop",10000-20000,Beginner
+968513f3-88eb-458f-a6bc-88b9bdcbf93d,59,Male,Low,Bhopal,large screen,entertainment,"Smartphone,Laptop",20000-40000,Beginner
+bbb49a12-c399-4a14-a47b-c95c3df9246a,51,Female,Low,Patna,"long battery,lightweight,compact",travel,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+5044c561-63d7-4c4b-af7f-9bde47492290,33,Male,High,Nagpur,fast processor,gaming,"Smartphone,Laptop",150000+,Intermediate
+45740982-78fb-4419-b86a-a1f12d4d865a,43,Female,Low,Hyderabad,"long battery,lightweight,professional design",business,"Laptop,Smartphone",20000-40000,Beginner
+189a816d-1f7c-4827-92b9-e24212161704,58,Male,Medium,Chennai,long battery,business,"Laptop,Smartphone,Laptop",60000-100000,Beginner
+058cf9fb-0e36-4aeb-a46f-15e4061bd884,50,Male,Low,Bhopal,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone,Laptop",10000-20000,Beginner
+21c79849-d22f-4dc8-8615-593253e36a9b,34,Male,High,Lucknow,"high performance,dedicated graphics",gaming,"Laptop,Laptop",100000-150000,Intermediate
+b71d79d8-1933-4fdf-8e36-969c3b0c36f8,32,Male,Low,Thane,good storage,photography,Laptop,10000-20000,Beginner
+5cde274a-a8a6-416d-9b34-43c22dda5ab9,33,Female,High,Indore,"long battery,lightweight,professional design",business,Laptop,150000+,Beginner
+0eb02b3f-3c2f-4926-95ea-f55b0edf8832,43,Male,Medium,Visakhapatnam,"long battery,lightweight",travel,Smartphone,60000-100000,Intermediate
+7894b8a6-0cd3-4285-a08e-f5e296f728c2,32,Female,Medium,Pune,"good speakers,large screen,high resolution",entertainment,Laptop,20000-40000,Advanced
+fa635751-a70f-4871-9b35-510de05e6161,63,Female,Medium,Bangalore,"good storage,high resolution",photography,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+a2f9e8d3-8534-4b56-8982-51991a5f5f32,40,Female,Low,Nagpur,"good storage,high resolution",photography,Smartphone,20000-40000,Intermediate
+c907ec56-d88d-4d77-99b4-17ba779871e1,21,Female,Medium,Chennai,long battery,travel,"Laptop,Laptop,Smartphone",60000-100000,Advanced
+30f4ff73-23ac-4bab-a70a-f56898c6358b,33,Male,Medium,Thane,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",40000-60000,Intermediate
+4390e359-7714-4ee9-9a1b-3c8e4a428465,61,Male,Low,Patna,long battery,travel,Smartphone,20000-40000,Beginner
+88a0b197-2ff5-44ae-b81b-0a67c98d412d,35,Female,Medium,Bhopal,"long battery,lightweight,compact",travel,Laptop,40000-60000,Intermediate
+6349a331-a5ad-4de8-a3b6-221f4cbf9239,18,Non-Binary,Low,Indore,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Smartphone",10000-20000,Advanced
+fcfd05a3-ac41-48a8-b2d6-d6092ef133ee,44,Male,Low,Delhi,"long battery,budget-friendly",education,"Laptop,Laptop",10000-20000,Intermediate
+122b0990-51d9-4fdb-a71a-99f2aaa68334,22,Male,Low,Patna,"long battery,professional design",business,"Smartphone,Smartphone,Laptop",10000-20000,Advanced
+8069c509-1210-4d1c-b11f-1d25e3e2c9e9,19,Female,High,Jaipur,"high performance,fast processor,dedicated graphics",gaming,Laptop,150000+,Advanced
+eaeba82a-a348-47f3-a111-6972c3264ef5,54,Non-Binary,Medium,Pimpri-Chinchwad,"good speakers,high resolution",entertainment,Smartphone,20000-40000,Beginner
+4e0d736d-cbe9-4d8d-8b1f-96f4ef30a68d,32,Female,Low,Pune,"long battery,lightweight",business,Laptop,10000-20000,Beginner
+88f6a0be-504d-43e8-aa18-96afe0e74fc6,31,Female,High,Visakhapatnam,"high performance,fast processor",gaming,"Laptop,Laptop",60000-100000,Advanced
+ba33a399-d2dc-4319-9dcf-be14b7b4cb26,57,Non-Binary,Low,Mumbai,"long battery,lightweight",business,Laptop,20000-40000,Intermediate
+d6fe6cc1-3370-496c-8d16-ebe737cf2ca7,56,Male,Medium,Bangalore,"camera quality,good storage",photography,"Laptop,Laptop,Smartphone",40000-60000,Intermediate
+07c7b28d-0b67-4b84-8ba2-8d1800a6389e,43,Male,Low,Thane,"good storage,high resolution",photography,"Laptop,Laptop",10000-20000,Intermediate
+02fd1509-bfa9-4fef-9ccc-ba2700e7abde,50,Male,Low,Surat,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop,Smartphone",10000-20000,Beginner
+00bfe247-7ff2-49f7-81c7-ebaa54700c5c,35,Female,Low,Indore,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",10000-20000,Advanced
+4860ab37-0198-4419-860c-2da49c72ef62,23,Male,High,Pune,"camera quality,high resolution",photography,"Laptop,Smartphone,Laptop",150000+,Advanced
+c78f8582-0cb8-498e-a9c2-f098e0f24edd,36,Male,Medium,Nagpur,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone,Laptop",60000-100000,Intermediate
+f5ec2fb8-6a08-4e2e-a3ac-d5108f3c24b5,60,Male,Low,Thane,"lightweight,professional design",business,"Laptop,Laptop",10000-20000,Beginner
+9872e518-27bb-4a0f-8d7f-81b4b65c9e7f,44,Male,Medium,Indore,"long battery,professional design",business,"Laptop,Laptop",20000-40000,Intermediate
+b61c6dff-6779-4809-b32f-a385e4bf062a,18,Male,Low,Patna,"compact,lightweight",travel,"Laptop,Laptop,Laptop",20000-40000,Advanced
+b1d84100-91de-414f-8e84-1a22150f7e43,57,Male,High,Hyderabad,professional design,business,Laptop,60000-100000,Intermediate
+d729edfb-d04f-43f6-84c9-dcb102ffd645,33,Female,Medium,Bhopal,"camera quality,high resolution",photography,Laptop,60000-100000,Intermediate
+243eab04-f3ec-4883-9ff7-950f1fab051d,62,Female,Low,Lucknow,stylus support,education,"Smartphone,Smartphone",20000-40000,Beginner
+d5b45216-aad5-45c4-9dea-8a3e6ab498ea,33,Male,Low,Surat,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone",10000-20000,Intermediate
+61fe08fe-f251-47e9-abda-c85bdca67efb,36,Female,Medium,Chennai,lightweight,business,Smartphone,20000-40000,Beginner
+e8fd65dd-8189-47ee-996c-392743b9c455,40,Male,Low,Bangalore,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",10000-20000,Intermediate
+55357e91-2950-4697-a523-5c542b54ad47,44,Female,Medium,Lucknow,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+d987aab8-1f77-4504-9a1b-afd3af07c2e2,20,Male,Medium,Ahmedabad,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",40000-60000,Intermediate
+ca0babaf-e26f-492a-a477-4f0d78e2831b,43,Male,Low,Lucknow,"camera quality,good storage",photography,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+812363cc-9304-4b42-8eae-fccb7776f163,30,Male,Medium,Surat,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+76a3e41f-741c-4d11-b341-a158f8b68766,53,Non-Binary,Low,Vadodara,lightweight,travel,Smartphone,10000-20000,Beginner
+90a969f0-af67-4bb7-8c4c-2d7f1d2357c2,48,Male,Medium,Visakhapatnam,"compact,lightweight",travel,"Smartphone,Laptop,Laptop",20000-40000,Beginner
+5fde0d53-c8b2-4017-9e09-2c664405cfde,22,Male,High,Delhi,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop",150000+,Advanced
+217ed998-5878-48b4-8948-a95d766036d2,47,Female,Medium,Vadodara,good storage,photography,"Laptop,Smartphone",60000-100000,Beginner
+b9e1226b-025a-4072-8819-92c775164fde,39,Male,High,Pimpri-Chinchwad,"long battery,lightweight,professional design",business,"Laptop,Smartphone",100000-150000,Intermediate
+5ece4343-c3db-4654-988c-0613eae8771c,30,Male,Low,Jaipur,"compact,lightweight,long battery",travel,Laptop,10000-20000,Intermediate
+ba954d3d-1681-4799-b509-37b51c7919c4,50,Male,Medium,Chennai,"high performance,dedicated graphics",gaming,"Smartphone,Laptop,Laptop",20000-40000,Beginner
+4470ff79-3604-4df4-9fcf-33f3a8bbeb70,43,Female,Low,Lucknow,good storage,photography,Laptop,20000-40000,Advanced
+cd727cca-b3b0-49b9-b067-6cae1ca7f826,44,Female,Medium,Kanpur,high resolution,photography,Smartphone,40000-60000,Advanced
+28b7589b-87fc-498a-9160-abbfab7fa631,42,Male,Medium,Lucknow,"high performance,fast processor",gaming,Smartphone,60000-100000,Beginner
+b9a111ed-ab38-404b-b681-5924af1627e4,52,Male,Low,Bangalore,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",20000-40000,Beginner
+74156d13-2e79-416e-80ee-de041cb68d65,27,Male,Medium,Pune,camera quality,photography,"Smartphone,Smartphone",40000-60000,Intermediate
+136189e0-8d6e-4cff-af59-be27a3a46e7a,33,Male,Medium,Nagpur,"long battery,lightweight,compact",travel,"Smartphone,Laptop",40000-60000,Intermediate
+5fb8a7ae-b908-4d67-98d3-2b846f6ed356,57,Female,Medium,Pimpri-Chinchwad,"high performance,dedicated graphics",gaming,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+83c9dc84-cb88-4481-a896-560201cd0b46,55,Male,Medium,Indore,"high performance,fast processor",gaming,Smartphone,20000-40000,Intermediate
+d5dee7c9-704d-4501-a074-a1abc77e78be,19,Female,Low,Vadodara,budget-friendly,education,Smartphone,10000-20000,Advanced
+1413e052-1fcb-46e7-a935-bcdcd70d6852,45,Non-Binary,Medium,Delhi,"camera quality,high resolution",photography,"Laptop,Laptop,Smartphone",60000-100000,Advanced
+eef86e1a-59c9-42ff-a85a-68e22e83ca61,45,Female,Low,Hyderabad,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",10000-20000,Intermediate
+23007ea2-fca7-4447-bfa8-2061c4ffc1ee,19,Male,High,Pimpri-Chinchwad,"budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",100000-150000,Advanced
+c7df5b21-5eb1-4f14-99d3-e516fe024f79,45,Male,Medium,Chennai,lightweight,business,"Smartphone,Laptop,Smartphone",40000-60000,Intermediate
+c93b44e7-64fb-4a57-8a9e-1802b4e2e6c6,25,Male,Medium,Delhi,budget-friendly,education,"Smartphone,Laptop,Laptop",20000-40000,Advanced
+bd7430fe-2ef5-45ec-8bc2-1aeab1a8b136,29,Female,Medium,Ahmedabad,professional design,business,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+586f090e-769d-4754-8ccd-6b9cac7e287e,60,Female,Low,Mumbai,"long battery,compact",travel,"Smartphone,Smartphone",20000-40000,Beginner
+97e817dc-f368-4537-ab23-f8c735aea27e,43,Male,Medium,Kanpur,"long battery,lightweight",travel,Smartphone,20000-40000,Beginner
+d694908f-0709-4598-b91f-4654e0a3f4a2,54,Male,Medium,Lucknow,"good storage,high resolution",photography,Laptop,20000-40000,Beginner
+101a2aeb-66ee-4818-83ec-a5b5f01b16bd,20,Male,Medium,Lucknow,"high performance,fast processor",gaming,"Smartphone,Smartphone,Laptop",60000-100000,Intermediate
+28547be6-4ba7-447d-95ad-dcc104f0cd83,64,Non-Binary,High,Jaipur,"large screen,high resolution",entertainment,"Laptop,Smartphone,Laptop",100000-150000,Intermediate
+9956c2f5-4673-476b-bc28-00cd10c86fbd,46,Female,Medium,Surat,"high performance,fast processor",gaming,"Smartphone,Laptop,Smartphone",40000-60000,Beginner
+da1ec2e8-6dc7-4a35-8dc2-a0fa42a7b56e,34,Male,Low,Kanpur,"compact,lightweight",travel,"Smartphone,Laptop",20000-40000,Intermediate
+3b1a489e-611a-4967-9c5c-eab2f383a907,21,Male,Low,Mumbai,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Laptop",20000-40000,Intermediate
+11163c68-83e9-4b1c-a280-2f8f7f1920b3,18,Non-Binary,High,Jaipur,"long battery,professional design",business,Smartphone,60000-100000,Intermediate
+32a25472-8ea2-43f3-b720-9bcff87bf0e0,33,Female,High,Jaipur,"good storage,high resolution",photography,"Laptop,Laptop,Smartphone",150000+,Intermediate
+39ec161a-39e3-4009-8ce7-72249aaf30e9,56,Male,Medium,Chennai,"camera quality,good storage",photography,"Laptop,Smartphone",40000-60000,Beginner
+d396a5cd-6ac7-47b8-b7ee-e36610074d53,23,Male,Low,Lucknow,compact,travel,"Laptop,Smartphone,Laptop",20000-40000,Advanced
+f26a2719-5935-49c3-adc6-9215b442a834,36,Non-Binary,High,Kolkata,"high performance,dedicated graphics,fast processor",gaming,"Laptop,Smartphone",100000-150000,Advanced
+c3510931-5aa7-41d1-a04b-29c31be52886,55,Male,High,Ahmedabad,high resolution,entertainment,Smartphone,150000+,Intermediate
+b44ed30b-d4d5-4de6-8c61-6b0fe3cf6a91,48,Male,High,Ahmedabad,"good storage,high resolution",photography,Smartphone,150000+,Beginner
+48acc3c8-c40c-4bf0-8a58-58fba30483b8,37,Female,Low,Visakhapatnam,"long battery,lightweight",travel,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+2c306ddc-cedd-42da-9092-d54d7ab4ccae,28,Female,Medium,Indore,"good speakers,large screen,high resolution",entertainment,Smartphone,40000-60000,Advanced
+aef7c330-afcb-42d4-b771-3c7cb26700bf,45,Female,Medium,Lucknow,"good speakers,large screen,high resolution",entertainment,Smartphone,40000-60000,Intermediate
+58f41d74-bde4-4332-b34e-49acb4da15df,58,Female,Low,Visakhapatnam,"long battery,budget-friendly",education,"Laptop,Smartphone,Laptop",10000-20000,Intermediate
+49ff9004-07e9-4f1b-bf17-12587e1e5b08,49,Female,Low,Visakhapatnam,"good speakers,large screen",entertainment,"Laptop,Laptop",20000-40000,Intermediate
+25b6bcec-1650-4a79-bff3-6cb21ea10950,57,Male,Low,Bangalore,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+974a33df-85ac-4c0e-8b9c-4246fef6f28a,25,Female,Medium,Kanpur,lightweight,business,"Smartphone,Laptop",40000-60000,Intermediate
+fa08c049-ca50-440f-bc42-fcd413e54e20,50,Female,Medium,Pune,"compact,lightweight",travel,Smartphone,20000-40000,Intermediate
+a134436d-300a-48a7-9323-5acedf597170,26,Female,Medium,Kanpur,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Laptop",40000-60000,Advanced
+981f1d0a-892a-4c96-9af5-42d1e4604d96,23,Male,Medium,Bhopal,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone,Laptop",60000-100000,Advanced
+28d77766-fbee-4d3e-984e-2efdd4d154b5,40,Female,Low,Delhi,"long battery,stylus support",education,Laptop,10000-20000,Intermediate
+69970815-4f56-4d9c-a94e-152c5a7831bf,31,Male,Medium,Thane,"good speakers,high resolution",entertainment,"Laptop,Laptop,Laptop",40000-60000,Advanced
+0b9e31c2-636b-4548-84bc-02d6bf844fdf,48,Female,High,Thane,high resolution,photography,"Smartphone,Smartphone,Smartphone",60000-100000,Intermediate
+cdfbf085-6361-4ee3-b2ab-1275e4eeab0c,50,Male,Medium,Chennai,"good speakers,large screen",entertainment,"Smartphone,Smartphone",20000-40000,Beginner
+30cd14ee-381d-4d54-b9c9-140c53aff561,22,Female,Low,Mumbai,lightweight,business,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+11310fe8-8712-49e8-bb3e-147a2b026944,33,Male,Low,Bhopal,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+b9542534-82a8-4c23-a7cc-54971a920b26,35,Male,Medium,Vadodara,"long battery,lightweight,professional design",business,"Smartphone,Smartphone",20000-40000,Beginner
+3f78af26-d855-437c-b028-e6237fdd5a04,42,Male,Low,Mumbai,long battery,business,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+02149f4a-5e93-46c1-ba79-41e9b639b32b,21,Male,Low,Kolkata,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Smartphone",10000-20000,Intermediate
+2f6f9a83-26e0-4a54-b4bb-d8472c59fa7a,34,Male,Medium,Surat,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Laptop",60000-100000,Intermediate
+e8926859-2f75-4aff-a603-8c327acf4633,38,Female,Low,Hyderabad,"long battery,lightweight",travel,"Laptop,Laptop",10000-20000,Advanced
+c175f034-a807-4c58-9cb3-0c6649b9f162,23,Male,Low,Kolkata,"budget-friendly,stylus support",education,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+f90b717e-4464-4bc8-9e39-fff7adb1a576,50,Male,High,Ahmedabad,"long battery,budget-friendly,stylus support",education,Smartphone,100000-150000,Beginner
+ac43bb6e-1175-4640-90e5-2b503346618b,60,Male,High,Surat,"high performance,fast processor",gaming,"Smartphone,Smartphone,Laptop",150000+,Beginner
+feec7754-908e-4fa6-bd54-7bf21aadb552,61,Female,Low,Mumbai,good speakers,entertainment,"Smartphone,Laptop,Laptop",10000-20000,Intermediate
+e7519914-0c70-4cf1-b14b-f0f928727e4b,25,Male,Low,Thane,long battery,education,Laptop,10000-20000,Advanced
+17744614-5a43-463e-b560-4631780d4fc8,48,Non-Binary,Medium,Ahmedabad,"good speakers,high resolution",entertainment,"Laptop,Smartphone",40000-60000,Beginner
+7d42c6e7-4667-467e-a7c5-4bbd8eb5ca1a,43,Male,High,Mumbai,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone",100000-150000,Advanced
+8b1adb17-fa19-4909-95e4-49a4d17bd65e,54,Male,Medium,Hyderabad,"compact,lightweight",travel,"Smartphone,Laptop",60000-100000,Beginner
+4e27fe6d-e85c-4f47-b195-3e5c9abda8fb,19,Male,Low,Surat,budget-friendly,education,Smartphone,20000-40000,Advanced
+cb848106-1193-4b01-a5a1-6a58cb987936,33,Male,Medium,Vadodara,"good storage,high resolution",photography,Smartphone,60000-100000,Intermediate
+760aaceb-375f-4d8d-9b5b-31d4019a51bb,35,Male,Low,Nagpur,fast processor,gaming,Smartphone,20000-40000,Intermediate
+1074f967-d394-4cec-97b1-48f68f243409,65,Male,High,Kanpur,"camera quality,good storage,high resolution",photography,"Laptop,Laptop",100000-150000,Intermediate
+0ae6f6db-31f2-4f25-b268-ac5a279c4876,38,Female,High,Kolkata,"good speakers,large screen,high resolution",entertainment,Smartphone,150000+,Intermediate
+fa847677-d719-4260-93af-dcfa4913f501,32,Female,Medium,Patna,"long battery,compact",travel,Smartphone,20000-40000,Advanced
+a48b1cd0-6ce6-44c4-a4f7-bed6fb0cfaaf,38,Female,Medium,Indore,good storage,photography,"Smartphone,Smartphone,Laptop",60000-100000,Advanced
+8e1a543c-4c3c-4733-933f-fa1ce1bf9e8e,45,Male,Low,Kolkata,high performance,gaming,Laptop,10000-20000,Intermediate
+26f55ffc-7b8c-43e2-868b-d8b006170831,63,Male,Low,Jaipur,camera quality,photography,"Laptop,Smartphone",10000-20000,Beginner
+3239be9d-cfed-4b52-ace4-29c781349acd,49,Male,Medium,Indore,"high performance,fast processor",gaming,"Smartphone,Laptop,Laptop",60000-100000,Beginner
+dad1c954-fedb-4ca9-ba32-1ede6b29e806,32,Non-Binary,Low,Mumbai,high resolution,entertainment,Smartphone,20000-40000,Advanced
+c9932af9-b7d0-4477-940d-32b7ab76577f,60,Male,Low,Jaipur,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop",10000-20000,Intermediate
+2c5c1908-ec6c-42b3-905a-9b7fe18b54e3,57,Female,Low,Delhi,long battery,business,Laptop,10000-20000,Beginner
+15396c91-fdc9-43ff-9514-9bf6187f1b18,52,Female,Low,Indore,"good speakers,high resolution",entertainment,Laptop,20000-40000,Beginner
+c112c265-e2fc-40ab-8b7b-d1efe843c746,59,Male,Medium,Pimpri-Chinchwad,high performance,gaming,"Laptop,Laptop,Laptop",20000-40000,Beginner
+94fa5b3a-5efd-49dd-90f0-f52c4261640b,42,Male,Low,Patna,"good speakers,large screen",entertainment,"Smartphone,Laptop,Smartphone",20000-40000,Beginner
+9362e3d5-731f-4c34-b6c5-b7d482faf8fb,61,Male,High,Vadodara,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Laptop,Laptop",60000-100000,Beginner
+7482a807-f116-4719-bb01-3dba85acec21,22,Male,Low,Bangalore,lightweight,business,Smartphone,10000-20000,Intermediate
+d818e810-ab37-4e38-a4f3-01d0113055b7,55,Female,Medium,Thane,"fast processor,dedicated graphics",gaming,Laptop,20000-40000,Beginner
+2e3e0c3f-bb55-423e-a943-b83163639cad,27,Female,Medium,Nagpur,lightweight,travel,"Laptop,Smartphone,Smartphone",40000-60000,Advanced
+35d99970-538a-4ac9-a5b4-0a85b3998d3e,60,Male,Low,Mumbai,large screen,entertainment,Smartphone,20000-40000,Intermediate
+7c10e518-5775-499d-bb95-b66936aa99e8,53,Male,Medium,Thane,"compact,lightweight,long battery",travel,"Smartphone,Laptop",40000-60000,Beginner
+4e5543e4-5453-4efc-93fe-418dbadf52ea,47,Male,Low,Pune,professional design,business,Laptop,20000-40000,Beginner
+d560bf4a-762b-4db3-a106-b173dfa33bb9,49,Male,Low,Kolkata,lightweight,business,"Smartphone,Smartphone",20000-40000,Intermediate
+6127e3ef-e0f4-4d42-8dde-76e6eed04ffd,60,Female,Low,Bhopal,high performance,gaming,"Smartphone,Smartphone,Laptop",20000-40000,Beginner
+3dd1869e-053a-45ce-8f37-7cefa5bbf74d,25,Non-Binary,High,Mumbai,high resolution,photography,"Smartphone,Smartphone,Smartphone",100000-150000,Advanced
+9b437ea2-b6b5-4509-a50a-8733069e644d,63,Male,Low,Kanpur,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone,Laptop",10000-20000,Beginner
+b2f95113-bf73-4849-ae9d-057a82d99d4f,39,Female,High,Visakhapatnam,budget-friendly,education,"Laptop,Smartphone,Smartphone",100000-150000,Intermediate
+faa1b8ba-6986-4bbb-b882-53d00b178d16,19,Female,Low,Patna,"camera quality,good storage,high resolution",photography,Laptop,20000-40000,Advanced
+b7b57dfb-a198-4b1b-9e2b-2e538e5f9fa6,46,Female,Medium,Bangalore,lightweight,business,"Laptop,Laptop",20000-40000,Intermediate
+ae7db2d8-5d4a-416f-91a8-f4669eb7f6a3,52,Female,Low,Delhi,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",10000-20000,Beginner
+a93af335-95c0-4071-8aa8-2b0bde794352,59,Female,Medium,Pune,good storage,photography,"Smartphone,Laptop,Smartphone",40000-60000,Beginner
+c5c8be8e-dd20-4ea9-b6a5-63febe8420d8,43,Male,Medium,Lucknow,"long battery,lightweight,compact",travel,Laptop,60000-100000,Advanced
+776520d6-e211-49e6-8b59-8ad2b934c561,29,Female,Low,Nagpur,"long battery,budget-friendly",education,"Smartphone,Laptop",20000-40000,Advanced
+da0266dc-0fca-4a7f-8526-61b40136cc8c,45,Female,Low,Hyderabad,high performance,gaming,Laptop,10000-20000,Intermediate
+62a6485d-bc4e-4163-87cc-b61b0c9feca1,30,Female,High,Kanpur,budget-friendly,education,Smartphone,100000-150000,Intermediate
+b0acfeb7-a5da-48f9-8af6-0d66cae1d064,19,Male,Medium,Chennai,"long battery,lightweight,professional design",business,Laptop,60000-100000,Advanced
+16cd79a8-7a42-4322-a09a-860cdd71529e,39,Female,High,Jaipur,"high performance,fast processor",gaming,"Smartphone,Smartphone,Smartphone",100000-150000,Advanced
+fb935b26-1873-407b-9b6a-3fbdc4684e2a,40,Female,Low,Mumbai,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop,Smartphone",10000-20000,Intermediate
+8657b5be-a152-4d6e-812e-0a32fccd8a47,65,Male,Medium,Kolkata,good storage,photography,"Smartphone,Smartphone",20000-40000,Beginner
+2e0207c8-b042-40cd-ad85-36b4260ee689,59,Female,Low,Chennai,stylus support,education,"Laptop,Laptop",20000-40000,Intermediate
+54e9cd46-1a0e-4fc7-836e-98c4d690f239,26,Female,Medium,Surat,"long battery,compact",travel,Smartphone,40000-60000,Beginner
+d757b9ed-81e9-4b8a-8b1b-288cf06f4d78,63,Male,Medium,Thane,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone",60000-100000,Beginner
+c652b3cb-565d-4b0b-b829-d2838d9950ca,23,Female,Medium,Hyderabad,good speakers,entertainment,Laptop,40000-60000,Intermediate
+e650dfb4-201e-4566-b1a4-4e26910750e3,53,Male,Medium,Thane,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone,Laptop",60000-100000,Beginner
+8f2ac3db-d5f3-4e9f-a165-3ddd29841d3b,61,Male,Medium,Hyderabad,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",40000-60000,Beginner
+75567d8d-06cb-4d50-9cf9-a47cc0926ded,36,Male,Low,Delhi,lightweight,travel,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+59822ca1-f466-47f0-8a3d-aa894d42c3f2,52,Male,Medium,Lucknow,"long battery,budget-friendly,stylus support",education,Smartphone,60000-100000,Intermediate
+62d14738-e68c-447e-8708-84694dd4a2cc,33,Male,High,Jaipur,camera quality,photography,Smartphone,150000+,Beginner
+de62bc6f-c3f5-4f7b-8658-a4f117498bbd,58,Male,High,Vadodara,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",150000+,Beginner
+f4b59a55-2616-4ae4-b8ba-00ae0912334d,44,Male,High,Indore,high performance,gaming,"Laptop,Laptop",150000+,Intermediate
+0aa3c5fc-fdd3-4b61-a408-1141542a4bdb,28,Female,Medium,Kolkata,"long battery,professional design",business,"Smartphone,Laptop",60000-100000,Advanced
+6d4b1a49-3951-4ea8-ac82-a891389e2311,62,Male,High,Bhopal,"good speakers,large screen,high resolution",entertainment,Smartphone,100000-150000,Intermediate
+dfa3868f-1313-4624-848b-dc463b5b3cbe,26,Male,Medium,Patna,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",60000-100000,Beginner
+fa3242c6-a4e7-4f7c-8008-4509fdb34be3,58,Female,Low,Bhopal,high performance,gaming,"Smartphone,Smartphone",10000-20000,Intermediate
+ba5b9024-445e-44b9-b028-89ceb04b227b,46,Female,High,Thane,fast processor,gaming,"Smartphone,Smartphone,Laptop",150000+,Beginner
+c844047b-342d-4bc3-98fd-6a4c9d23e4e5,60,Male,Low,Thane,high resolution,photography,"Laptop,Smartphone,Smartphone",10000-20000,Beginner
+70393239-8b1d-4a5f-9676-005bee6a6c0d,39,Female,Low,Vadodara,"lightweight,professional design",business,Laptop,10000-20000,Intermediate
+6e11359c-2525-475e-97a2-c388c9221bd3,33,Male,Low,Ahmedabad,"camera quality,high resolution",photography,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+0d66c00b-6a7f-40c3-aba3-7e1553b781f0,60,Male,Medium,Jaipur,"high performance,dedicated graphics",gaming,Laptop,60000-100000,Beginner
+b0aa3090-e768-4338-b9f2-f614c4a9a200,46,Female,Low,Mumbai,"compact,lightweight",travel,Smartphone,20000-40000,Beginner
+73e8931f-2c21-4295-bcc6-e97bd2ae5c20,39,Non-Binary,High,Nagpur,"long battery,lightweight,compact",travel,"Smartphone,Laptop,Laptop",60000-100000,Beginner
+cf72af7d-3473-490f-9377-494bbd429f9b,43,Female,Medium,Jaipur,"good storage,high resolution",photography,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+de565555-00e9-415b-8cf8-d7c31807aef9,33,Female,Low,Kanpur,"high performance,fast processor",gaming,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+8309cf73-9020-4c8c-b0c1-645bc76e7d5c,53,Male,Low,Ahmedabad,lightweight,travel,Smartphone,10000-20000,Beginner
+3a80e2c8-2472-438b-a228-eff9139888cf,54,Male,High,Nagpur,"long battery,lightweight,compact",travel,"Smartphone,Laptop,Laptop",100000-150000,Beginner
+d28385eb-f29b-41de-97e0-4bcc11633baa,35,Male,High,Visakhapatnam,high resolution,entertainment,"Laptop,Laptop",60000-100000,Beginner
+4129a4b1-b4be-472a-ac7d-3720fa9c5e86,37,Non-Binary,Low,Kanpur,"long battery,lightweight",business,"Laptop,Smartphone",20000-40000,Intermediate
+f2cf8efb-b360-419d-af92-60011b80ea11,50,Male,Medium,Bangalore,long battery,travel,"Laptop,Smartphone",20000-40000,Beginner
+5bbba98f-bfdb-40df-8129-e6570681ea6e,41,Non-Binary,Low,Kanpur,"good speakers,high resolution",entertainment,"Laptop,Laptop",20000-40000,Intermediate
+9248dde7-6301-418a-94a4-ed8043f9e702,53,Female,Medium,Lucknow,dedicated graphics,gaming,"Laptop,Laptop",20000-40000,Beginner
+697c625e-e9fa-4c15-a1fd-a6133dcda2d1,18,Male,Low,Mumbai,"long battery,lightweight,compact",travel,Laptop,20000-40000,Intermediate
+610767ee-9adb-4a7b-bbfe-5a00127a3540,35,Female,Medium,Bhopal,"long battery,budget-friendly",education,"Smartphone,Laptop,Laptop",20000-40000,Beginner
+a2006957-3231-4215-aa5e-8415ea97e5b6,62,Male,Low,Mumbai,"long battery,lightweight",business,"Smartphone,Smartphone",20000-40000,Beginner
+c5856001-7a62-4586-975e-ea858566a388,61,Male,High,Delhi,"long battery,budget-friendly",education,"Smartphone,Laptop,Smartphone",150000+,Intermediate
+7ee5c6c2-e492-4952-b230-edd786ccd3b1,33,Female,Low,Indore,lightweight,travel,"Laptop,Smartphone",20000-40000,Intermediate
+0d69402d-fa7c-42e7-b10f-ed8648f2f52a,48,Male,High,Pune,dedicated graphics,gaming,Smartphone,60000-100000,Beginner
+0af555bc-7245-4af7-abe3-6074033f92f0,35,Female,Medium,Kanpur,"compact,lightweight",travel,Laptop,40000-60000,Beginner
+af9fba53-917a-409a-bce2-6b55e836458a,19,Male,High,Indore,"long battery,lightweight,professional design",business,Smartphone,100000-150000,Advanced
+c854775d-84e8-40de-8be6-515e14f9cd8b,21,Female,Medium,Nagpur,budget-friendly,education,Smartphone,40000-60000,Intermediate
+2d0ce40b-ccb2-45b3-8dbc-1f17143be93e,22,Male,Low,Lucknow,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone,Laptop",10000-20000,Intermediate
+ff0e78f7-9f2e-4bdd-ab6c-060d2eda1c89,35,Male,Low,Kolkata,compact,travel,"Smartphone,Smartphone,Laptop",10000-20000,Intermediate
+4a81c493-070a-44c3-a991-b4f14ef1bd40,56,Female,Medium,Patna,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Smartphone",60000-100000,Beginner
+0393592c-15b0-4b9b-97fc-095dc93b63aa,48,Female,Medium,Visakhapatnam,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",60000-100000,Beginner
+5f7e5a48-0700-47fb-b10a-dad620aab39f,41,Male,Medium,Mumbai,"high performance,fast processor,dedicated graphics",gaming,Laptop,20000-40000,Intermediate
+5dd03d08-28b6-4114-9325-4973a308c5b9,35,Male,Low,Thane,"budget-friendly,stylus support",education,Laptop,10000-20000,Beginner
+a1cf5141-364f-4e25-9d22-ddc0d30849e6,50,Male,Low,Kolkata,budget-friendly,education,"Laptop,Smartphone,Smartphone",10000-20000,Beginner
+d82ded38-6a9e-4ed2-bc14-a2a26bb86275,46,Female,High,Kolkata,"long battery,budget-friendly",education,Smartphone,60000-100000,Intermediate
+9c6aadce-5ca0-4242-ba1d-9dfb1e8844b4,59,Female,Low,Kanpur,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone",10000-20000,Beginner
+52dfd2ed-ff38-40e0-afec-695c695795dd,51,Female,Low,Bangalore,dedicated graphics,gaming,"Smartphone,Laptop",20000-40000,Beginner
+38cddd89-82a3-46b6-a350-e99b7ce19f8b,46,Male,High,Mumbai,"compact,lightweight",travel,"Smartphone,Smartphone",100000-150000,Intermediate
+54e80e5a-6072-4410-8bf2-807f37572905,36,Male,Low,Kolkata,lightweight,business,"Smartphone,Smartphone,Smartphone",10000-20000,Intermediate
+34f1fa22-5f59-4d3f-9734-5ea18f7b0bac,20,Male,Low,Kolkata,long battery,travel,Smartphone,20000-40000,Intermediate
+8b34f5e8-fde5-46c7-a109-cb2ee3802681,25,Male,Low,Hyderabad,"compact,lightweight,long battery",travel,Smartphone,20000-40000,Intermediate
+866e34ac-177f-49b9-8c7d-f3128a1576ec,50,Female,Medium,Kolkata,"good storage,high resolution",photography,"Smartphone,Smartphone",20000-40000,Beginner
+7ef5154f-5a99-40ec-9786-e2fcaba2aec4,49,Female,Low,Lucknow,"camera quality,good storage,high resolution",photography,Smartphone,20000-40000,Beginner
+bd4fc336-d323-4313-be24-da0730f00579,24,Male,Medium,Jaipur,"camera quality,high resolution",photography,"Laptop,Smartphone",60000-100000,Advanced
+8957d830-fed0-491d-b473-45d7880042a5,21,Female,High,Patna,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone,Laptop",60000-100000,Advanced
+b0e85cae-2e3e-420d-bca7-3f6b4f165544,29,Female,Low,Visakhapatnam,high resolution,entertainment,"Smartphone,Laptop",20000-40000,Intermediate
+a538e26e-337f-4d6c-b2df-df57d6557cb1,60,Male,Low,Pimpri-Chinchwad,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",20000-40000,Intermediate
+75b860fe-111e-44e0-a58d-8845980c1ea6,33,Male,High,Mumbai,"long battery,lightweight,professional design",business,Laptop,60000-100000,Beginner
+35252b83-4f4b-45a5-b0a9-5913ece3e8f8,51,Non-Binary,Medium,Hyderabad,budget-friendly,education,Smartphone,40000-60000,Intermediate
+01e21ba0-23f6-465e-aa5d-c63d4fbb0196,38,Male,Medium,Lucknow,"long battery,lightweight,professional design",business,Smartphone,20000-40000,Intermediate
+d303313b-c65f-4fbb-ae24-2ae1c7a8d85b,29,Male,Low,Patna,"long battery,lightweight,professional design",business,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+f2c7eae3-86b7-4a71-85f8-39760ec61f54,23,Male,Medium,Pimpri-Chinchwad,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop,Laptop",60000-100000,Advanced
+0a8c8e7a-10d7-44b5-88eb-3a8c15e1b4bc,38,Male,Low,Nagpur,"fast processor,dedicated graphics",gaming,Smartphone,20000-40000,Beginner
+b9ff6da1-a38e-4c40-906e-e4da7208f19f,50,Male,Medium,Delhi,"camera quality,good storage,high resolution",photography,Smartphone,40000-60000,Intermediate
+002371ca-2e23-4d00-9a9f-0d455fb0bc40,60,Male,Medium,Bhopal,"long battery,lightweight,professional design",business,"Smartphone,Laptop",20000-40000,Intermediate
+7e7e3692-60d9-4b60-9464-fabf3682fd27,62,Female,Low,Lucknow,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Laptop",20000-40000,Beginner
+29a0e639-953a-4867-8804-4a7426cbcec4,42,Female,Medium,Bangalore,compact,travel,"Laptop,Laptop,Smartphone",40000-60000,Advanced
+5218d7c4-0308-47bf-ad69-a58acc3ff060,19,Male,Medium,Patna,high performance,gaming,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+430cb29c-c8b6-445b-a061-0adcf5d2b264,41,Female,High,Nagpur,"large screen,high resolution",entertainment,Smartphone,100000-150000,Beginner
+6ecbc02b-d2c4-49be-addb-31e52201d624,58,Male,Medium,Kolkata,"good speakers,large screen",entertainment,Laptop,40000-60000,Beginner
+87571176-225d-4234-bbc5-ad0a0eafe7e2,65,Female,Low,Bhopal,"high performance,fast processor",gaming,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+bb4546f0-1e66-4cdf-8dd1-569b20c23764,55,Male,High,Thane,"camera quality,good storage,high resolution",photography,Smartphone,60000-100000,Intermediate
+28773eb0-bf87-41e4-8880-97176bacab23,21,Female,Low,Mumbai,"compact,lightweight",travel,"Laptop,Smartphone",10000-20000,Advanced
+ee217801-ae75-4615-a4a1-7ec6328549af,55,Female,Low,Bangalore,budget-friendly,education,"Laptop,Smartphone,Smartphone",20000-40000,Beginner
+2b87f48a-1957-4de3-945c-d60f594de741,47,Male,Medium,Patna,"camera quality,good storage,high resolution",photography,Smartphone,40000-60000,Intermediate
+da4d291a-ddce-4f18-a0a3-72a53fbbbee2,45,Non-Binary,High,Surat,"long battery,lightweight",business,Laptop,150000+,Advanced
+f73b5132-177f-4b32-b126-3849759d8ec9,42,Male,Medium,Chennai,"long battery,compact",travel,"Smartphone,Smartphone,Laptop",60000-100000,Intermediate
+8212ece1-d46b-4d61-9fab-3c78800d01af,34,Male,High,Hyderabad,"good speakers,large screen",entertainment,"Laptop,Laptop,Smartphone",100000-150000,Intermediate
+26ecad02-edea-4481-8ce9-955ba3751245,61,Male,Low,Thane,stylus support,education,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+df01fc04-ca18-47fd-804e-a25d4e08b2bd,58,Male,Medium,Patna,"long battery,lightweight,professional design",business,Laptop,60000-100000,Beginner
+9e3cc0e6-3381-446f-a57f-a28f2801977c,64,Female,Medium,Ahmedabad,"long battery,professional design",business,"Smartphone,Laptop",60000-100000,Beginner
+b757cfec-3b97-4fb5-b3b8-a5c29b9d6338,23,Male,Medium,Visakhapatnam,"large screen,high resolution",entertainment,Smartphone,60000-100000,Advanced
+e5380094-028e-4cc5-9f40-139a828f3d2c,57,Female,Medium,Ahmedabad,high resolution,entertainment,"Smartphone,Smartphone,Laptop",40000-60000,Intermediate
+c4256f49-8451-4978-984d-5ee570f91301,33,Female,Low,Ahmedabad,lightweight,travel,Smartphone,10000-20000,Beginner
+57b030ed-f464-43bd-9ddc-2e3ca51226cc,29,Female,Low,Bangalore,"high performance,fast processor,dedicated graphics",gaming,Laptop,20000-40000,Intermediate
+6fe16f1f-86f3-4901-89e8-27de52af2c2c,62,Male,Medium,Kolkata,"good speakers,large screen,high resolution",entertainment,Smartphone,20000-40000,Intermediate
+3fdb7d06-985b-4f00-8388-96bfe04718fd,28,Female,Low,Lucknow,"compact,long battery",travel,"Smartphone,Laptop",10000-20000,Beginner
+4123f80a-efe1-4c12-a2fa-5c15ddc02624,34,Female,Low,Vadodara,"camera quality,good storage,high resolution",photography,Laptop,10000-20000,Intermediate
+cc1891e9-8e90-47bc-ae0d-4c85116fe19e,46,Male,Medium,Kanpur,"good speakers,large screen,high resolution",entertainment,Laptop,20000-40000,Beginner
+fc5bc339-cd2c-4ee4-b9d1-7fab9d9bd61e,22,Female,Medium,Hyderabad,"camera quality,good storage,high resolution",photography,Laptop,60000-100000,Intermediate
+765c0e2e-4a60-45c0-930a-a3a9d39eb189,52,Male,Medium,Visakhapatnam,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone",40000-60000,Beginner
+f3da6d24-7909-4567-8058-6c5f632ada63,33,Female,High,Vadodara,stylus support,education,"Laptop,Laptop",60000-100000,Intermediate
+6c225522-83ac-4776-9db5-df5e363a9096,26,Male,Medium,Indore,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",40000-60000,Intermediate
+ddfb6663-1b1c-4a93-8db3-d0cf6356bd5f,58,Female,Medium,Indore,"good storage,high resolution",photography,Laptop,20000-40000,Beginner
+47bf2b0e-acf4-4970-849b-733c23e8985f,26,Female,Low,Lucknow,long battery,education,"Laptop,Smartphone",20000-40000,Intermediate
+5e5ceacb-bcab-475c-a3c3-bd3ce10c2f39,25,Male,High,Thane,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",60000-100000,Intermediate
+7e993335-6431-484b-bc2f-aa1a57881932,59,Male,Medium,Patna,"camera quality,good storage,high resolution",photography,Smartphone,60000-100000,Intermediate
+548a4e05-6e7c-4914-84d7-97adc832e699,29,Female,Medium,Kolkata,"camera quality,good storage,high resolution",photography,"Laptop,Laptop,Smartphone",60000-100000,Intermediate
+340e41a9-ec08-43ad-b935-80855e05c81d,44,Male,Low,Pune,dedicated graphics,gaming,"Smartphone,Smartphone",10000-20000,Intermediate
+8cd0f12f-5a87-44ea-8453-dd9c3b598c9e,50,Female,Medium,Patna,"long battery,lightweight,professional design",business,"Smartphone,Smartphone,Smartphone",20000-40000,Intermediate
+cfe5c642-37d3-41ad-aaac-f1d1caf6efa5,44,Male,Medium,Patna,"good speakers,large screen",entertainment,"Laptop,Smartphone",60000-100000,Advanced
+f08d8722-6056-488b-b31b-aafcb379bf82,31,Male,Low,Bangalore,"long battery,stylus support",education,Smartphone,10000-20000,Advanced
+854e03af-20d1-434a-b0e8-2ce65d4ae79f,25,Female,Medium,Patna,lightweight,travel,Laptop,20000-40000,Advanced
+99911ee7-a1ad-45b8-a26c-56972ff583dc,20,Female,Low,Mumbai,professional design,business,"Smartphone,Smartphone,Laptop",20000-40000,Advanced
+1d19a4a2-428b-4db0-99c8-d0675df2e567,48,Female,Medium,Patna,good speakers,entertainment,"Laptop,Laptop",20000-40000,Beginner
+d9123b9b-a754-4780-8214-91ed79c506a6,54,Female,Medium,Hyderabad,camera quality,photography,Smartphone,40000-60000,Intermediate
+9058544c-54aa-4dff-9ba4-23436f4c0c9d,54,Female,High,Surat,"long battery,budget-friendly,stylus support",education,Smartphone,60000-100000,Intermediate
+2d45f0aa-8b9f-4634-8e17-c32ca78bd968,42,Male,Low,Pune,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",20000-40000,Advanced
+ec0ee377-c0d1-4b39-b239-cb56bfedfb21,49,Female,Low,Bangalore,camera quality,photography,"Smartphone,Laptop",20000-40000,Beginner
+8aa487e5-c901-448f-9aab-f06f75e19f42,44,Male,Low,Surat,high resolution,entertainment,"Smartphone,Smartphone",10000-20000,Advanced
+9ca50435-6ed0-4673-b160-6efc176abe84,20,Female,Medium,Pimpri-Chinchwad,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",40000-60000,Intermediate
+1db9e8bc-aad8-417b-9a09-81a42d6f1aa5,59,Female,Low,Nagpur,high resolution,entertainment,Smartphone,10000-20000,Intermediate
+f8925535-6783-4807-85d4-c28c0021ff64,25,Female,High,Jaipur,"budget-friendly,stylus support",education,Smartphone,150000+,Advanced
+251da7bc-1beb-47d8-99bb-021e48b9d4a5,37,Female,Low,Bangalore,"long battery,budget-friendly,stylus support",education,Smartphone,10000-20000,Intermediate
+4aa22cf5-4c4c-4d6b-a1f8-a1984aec4e12,41,Female,Low,Pune,large screen,entertainment,"Smartphone,Laptop,Smartphone",20000-40000,Advanced
+243e2725-c1c0-4018-86c2-bb9b7d7980ba,64,Female,High,Patna,good storage,photography,"Smartphone,Smartphone",100000-150000,Beginner
+a9bc4d1c-a4f2-4353-8740-6471d26b41d7,41,Female,Medium,Pune,budget-friendly,education,"Laptop,Smartphone",60000-100000,Beginner
+961ce056-1b5c-44be-9412-5d46773a5c7f,21,Female,Medium,Ahmedabad,"camera quality,good storage",photography,"Smartphone,Smartphone",40000-60000,Intermediate
+32e9e4f9-27da-43ae-bade-8f494c4c8201,62,Female,High,Thane,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Laptop",150000+,Beginner
+1a405281-0163-4ad1-adca-d032c0836b1c,54,Male,Medium,Pune,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",20000-40000,Beginner
+56d5f134-0dfc-4959-a652-addb6f3eb104,39,Male,Medium,Chennai,"large screen,high resolution",entertainment,Laptop,20000-40000,Intermediate
+104dd8af-f86b-4e08-9aa7-abb03851ae4a,29,Male,Low,Chennai,"lightweight,professional design",business,"Smartphone,Smartphone",10000-20000,Beginner
+1bde952c-676f-4234-b4cc-c3bc4e6ab1a7,54,Male,Medium,Visakhapatnam,lightweight,travel,"Smartphone,Smartphone,Smartphone",40000-60000,Beginner
+3fed42a6-832e-4f21-be33-f4ed5b6e82ab,28,Female,High,Patna,high resolution,photography,Laptop,150000+,Intermediate
+46411de0-c61c-4479-8fac-3cd654be8770,56,Male,Low,Indore,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Laptop",10000-20000,Intermediate
+69d08cf8-b249-41cd-90aa-28bc9812e1da,50,Female,Low,Hyderabad,"good speakers,high resolution",entertainment,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+74f7a5e5-ecd9-4cd1-a454-bc65d8b0f0a4,22,Male,High,Lucknow,long battery,education,"Laptop,Smartphone,Laptop",150000+,Advanced
+a433e25d-e9ae-4c7b-94b9-5a5e785a256b,51,Female,Medium,Hyderabad,good speakers,entertainment,"Smartphone,Smartphone,Laptop",40000-60000,Beginner
+f7e758bb-cbf7-4c38-b975-803cd1d92788,30,Female,Medium,Kolkata,"budget-friendly,stylus support",education,"Smartphone,Smartphone",40000-60000,Advanced
+3b6ac25a-e7a6-4780-bc5c-0b5d22c812ff,44,Female,High,Vadodara,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Laptop",100000-150000,Intermediate
+2d757e3c-1235-4a36-907e-9117e9bfed70,31,Female,Low,Bangalore,fast processor,gaming,Laptop,20000-40000,Advanced
+df9a2905-f2f0-4f87-a15a-5f0a8b9b447c,41,Male,Low,Nagpur,professional design,business,"Laptop,Laptop",10000-20000,Intermediate
+9d283e58-7f54-4ef5-a930-eb4fff60cb6f,50,Female,High,Pimpri-Chinchwad,high performance,gaming,"Laptop,Laptop",60000-100000,Beginner
+64806e99-cf7f-4a63-b1d5-aebba9d4dc4a,24,Male,High,Kanpur,professional design,business,"Laptop,Laptop,Smartphone",60000-100000,Advanced
+9a65e96f-74f0-4967-a69b-e8c640b9fd23,62,Male,Low,Jaipur,lightweight,travel,"Smartphone,Smartphone,Smartphone",20000-40000,Intermediate
+e0217db9-719c-4c50-8adb-bc20c856b910,63,Male,Low,Indore,"budget-friendly,stylus support",education,Smartphone,20000-40000,Intermediate
+46baf775-1483-44d8-956f-5193aa3e340e,18,Male,Low,Pune,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",20000-40000,Advanced
+bb819383-be6f-4d46-8f4c-7a32b47c6586,62,Female,Medium,Chennai,long battery,travel,"Laptop,Smartphone",20000-40000,Intermediate
+a1dd0eff-a75e-4f11-a530-a8f9d4e450ed,33,Male,Low,Hyderabad,"budget-friendly,stylus support",education,Laptop,20000-40000,Intermediate
+6c1ef7a4-0bcf-4b79-8272-a2f86932c63d,28,Male,Low,Bangalore,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop,Laptop",20000-40000,Advanced
+a044fc1c-3044-4feb-be96-872168be443d,55,Male,Medium,Hyderabad,"budget-friendly,stylus support",education,Smartphone,60000-100000,Intermediate
+2f9a9b36-4efd-4c0c-a590-642a642bbe6f,47,Female,Medium,Chennai,"compact,lightweight",travel,Smartphone,60000-100000,Beginner
+37a01299-3cd2-4ad0-84a3-c1ecd866a00d,49,Female,Low,Mumbai,"good storage,high resolution",photography,"Laptop,Smartphone,Laptop",20000-40000,Intermediate
+692c2064-8e3d-4091-a8d2-864559fc6579,47,Male,Medium,Pune,camera quality,photography,"Laptop,Smartphone",60000-100000,Beginner
+81721b53-19cd-4857-a968-28a4844b2363,47,Non-Binary,High,Lucknow,dedicated graphics,gaming,"Smartphone,Smartphone",100000-150000,Beginner
+611bd793-c49b-4d1a-8883-876b145adb61,40,Female,Low,Bhopal,"long battery,lightweight,professional design",business,"Smartphone,Smartphone",20000-40000,Intermediate
+9b9646cd-c6b3-49fa-9232-e3f20425abed,50,Male,High,Hyderabad,"good speakers,large screen",entertainment,Laptop,150000+,Beginner
+887f7f71-b840-438d-960a-9a80ccf745b9,21,Male,Low,Visakhapatnam,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",10000-20000,Advanced
+16f3a7d0-a718-4710-b146-95cc1b430f0f,43,Female,Medium,Bangalore,fast processor,gaming,"Laptop,Smartphone",60000-100000,Intermediate
+706765e4-b3d3-4292-a18b-3954ba551a1e,22,Female,Low,Chennai,high resolution,photography,"Smartphone,Smartphone",10000-20000,Advanced
+1a6008cc-680c-48dc-939f-4a2d29e572a3,53,Female,Medium,Kolkata,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Laptop",40000-60000,Intermediate
+4113722f-9ce3-4183-b507-ad0f2ffde691,48,Male,Low,Kolkata,"long battery,lightweight,professional design",business,"Smartphone,Laptop",10000-20000,Beginner
+9e78d08c-f0e1-428d-854b-fcf946148cad,27,Female,Low,Thane,high resolution,photography,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+8f587eee-f3d0-4e89-b7d8-47dea0415a81,58,Female,Low,Kanpur,"compact,lightweight",travel,Laptop,10000-20000,Beginner
+1eb21687-f593-4896-9299-9fc87d82bc31,38,Male,Low,Delhi,"camera quality,good storage,high resolution",photography,Smartphone,10000-20000,Intermediate
+763a90db-50a7-4bd0-9ca9-b75a545ebcc9,63,Male,Medium,Bangalore,"good speakers,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+a376210a-45d0-42d9-8f68-3775f8ee0cba,37,Male,Medium,Visakhapatnam,"good storage,high resolution",photography,Smartphone,60000-100000,Intermediate
+b8101bd1-e350-41b8-8d2f-88fd8840e6ec,58,Male,Low,Pune,"camera quality,high resolution",photography,"Smartphone,Smartphone",10000-20000,Beginner
+87585696-00f4-460b-89a6-bb02a5da25e7,53,Female,Medium,Ahmedabad,high performance,gaming,"Laptop,Smartphone,Smartphone",60000-100000,Beginner
+aeacb323-e896-4d3e-b326-0f5301fe7f16,65,Male,Low,Vadodara,lightweight,travel,"Smartphone,Smartphone",20000-40000,Beginner
+f3e02f0a-56d1-4c8c-8ce8-4addc73c648d,52,Female,Medium,Visakhapatnam,"compact,lightweight,long battery",travel,"Smartphone,Laptop",20000-40000,Beginner
+956bc71e-da92-4ca8-8818-ead3cd1af9e6,45,Female,Medium,Jaipur,"camera quality,good storage,high resolution",photography,"Laptop,Laptop",20000-40000,Advanced
+22d6e129-0970-4ff4-91fc-0fb7e876199e,65,Female,High,Visakhapatnam,large screen,entertainment,"Laptop,Laptop",60000-100000,Intermediate
+73e8ae16-0838-43a9-8686-c4430397fb5a,25,Female,Low,Nagpur,"long battery,lightweight,professional design",business,Laptop,20000-40000,Advanced
+9ee6031f-c8c8-4120-b41b-b5b7ec266911,39,Female,High,Bangalore,"good speakers,high resolution",entertainment,"Laptop,Laptop",100000-150000,Intermediate
+49a5e763-97a9-4a54-9188-f2889cae1992,37,Female,High,Indore,"long battery,lightweight",travel,"Laptop,Laptop,Smartphone",150000+,Intermediate
+b0abd39e-dd5f-41d6-b208-601f191a7e4e,62,Female,High,Kolkata,"camera quality,good storage,high resolution",photography,Smartphone,150000+,Beginner
+34dfab54-e03f-4b09-999f-d17b03e97099,35,Male,Medium,Pune,large screen,entertainment,Smartphone,40000-60000,Intermediate
+d0b87c8d-ccf4-4815-8051-a999894b3056,64,Male,Medium,Hyderabad,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop,Laptop",60000-100000,Beginner
+0bb33c2e-d5d2-4077-8e9f-2fbc3690d5a2,52,Female,Low,Hyderabad,"large screen,high resolution",entertainment,"Smartphone,Smartphone",20000-40000,Beginner
+bf34849f-74aa-4330-a465-215d1ba89937,35,Male,Medium,Patna,"long battery,budget-friendly,stylus support",education,Laptop,20000-40000,Intermediate
+c23d3df8-d14e-41c0-8abf-217a427bdc98,27,Male,Low,Indore,"high performance,dedicated graphics",gaming,"Smartphone,Laptop",10000-20000,Beginner
+93542314-f27f-4595-81b0-546e34bb311d,57,Male,Low,Pimpri-Chinchwad,"high performance,dedicated graphics",gaming,"Laptop,Smartphone,Laptop",10000-20000,Beginner
+fabe438e-d17d-46ba-919e-373a20dc7991,58,Female,Medium,Thane,high resolution,entertainment,"Smartphone,Laptop,Laptop",20000-40000,Beginner
+cbdd5cba-025b-4ebe-888b-09dd352e432c,54,Male,Medium,Vadodara,"compact,lightweight,long battery",travel,"Smartphone,Smartphone",60000-100000,Beginner
+224d7f30-14de-4d0e-bc15-8d52edd0abc1,52,Non-Binary,Low,Thane,camera quality,photography,"Smartphone,Laptop,Laptop",20000-40000,Intermediate
+63c52c44-0e09-4554-858b-a4e9f1e570a3,23,Male,Low,Kolkata,"fast processor,dedicated graphics",gaming,Laptop,20000-40000,Intermediate
+93710bca-cf27-4399-b596-886fc3f14ac3,28,Male,Low,Vadodara,long battery,business,"Laptop,Laptop",10000-20000,Intermediate
+e0579b9d-358c-4d39-a70e-ededd8304b76,30,Male,High,Bhopal,lightweight,business,"Laptop,Smartphone,Laptop",150000+,Advanced
+a40c6d2c-92b7-4013-bbb3-1baa9469e62b,26,Female,Low,Delhi,long battery,business,"Smartphone,Laptop",10000-20000,Advanced
+50d8f3c4-beef-42da-b0f8-121d1e78e18b,29,Male,Medium,Surat,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+ce00cf68-016c-4fd3-8a93-22cf7a4376b4,47,Female,High,Mumbai,"large screen,high resolution",entertainment,Smartphone,150000+,Beginner
+24f79989-4e8a-4329-9576-cc2591c69003,46,Female,High,Kolkata,professional design,business,"Smartphone,Laptop",150000+,Beginner
+8c216ec3-0d6a-4c27-8fa2-ecd477871ef7,23,Female,Low,Patna,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop,Laptop",10000-20000,Advanced
+fdf335de-5b66-488e-acc6-f7e7e7e5ca37,19,Female,High,Jaipur,long battery,travel,Laptop,60000-100000,Intermediate
+8cb35da7-23ad-4245-9208-1af6f528fa21,63,Male,Medium,Bangalore,"long battery,compact",travel,"Smartphone,Laptop",60000-100000,Beginner
+75a8dfa8-d23b-444b-8b51-c6e7c2a8ce97,46,Male,Low,Lucknow,"good storage,high resolution",photography,"Smartphone,Laptop",20000-40000,Beginner
+042c8a96-cc35-413c-884a-6b352f1c4ce9,39,Male,High,Chennai,long battery,travel,"Laptop,Laptop,Laptop",100000-150000,Intermediate
+43b5d08a-9461-4a28-a0e5-ac700d3c03ce,59,Female,High,Ahmedabad,"budget-friendly,stylus support",education,Laptop,150000+,Beginner
+9c3fb5a7-473b-4425-88c9-49859e27ffcd,61,Female,High,Pimpri-Chinchwad,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone,Smartphone",150000+,Beginner
+8af49071-ba72-4e9e-baa3-cba7471ad969,45,Non-Binary,Low,Lucknow,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone",20000-40000,Beginner
+61e1fb1e-b1b6-4587-8f07-f0fe37df1f09,51,Female,Low,Hyderabad,camera quality,photography,"Laptop,Laptop",20000-40000,Intermediate
+8b47c582-359a-4009-9b8d-ee1fc3e0d229,47,Female,Medium,Visakhapatnam,dedicated graphics,gaming,Smartphone,20000-40000,Intermediate
+667d46e9-8e93-4b34-ad4d-732ac1c00c00,29,Female,High,Bangalore,"long battery,budget-friendly",education,"Laptop,Smartphone,Laptop",150000+,Advanced
+c3fd419c-9f5b-46bb-ac4b-89d3271eee0e,47,Female,Medium,Indore,"long battery,budget-friendly",education,Laptop,40000-60000,Beginner
+410ce655-e25e-48a1-a8aa-1e8a3400e8ed,46,Male,Medium,Patna,long battery,education,Laptop,40000-60000,Intermediate
+6ee7c8cb-c648-4d8a-8a78-2fa8ac540c56,25,Female,Low,Bhopal,"long battery,stylus support",education,"Laptop,Laptop",20000-40000,Intermediate
+ae0710e7-e21a-4052-8756-a3f5a23fff46,42,Male,Low,Lucknow,"lightweight,professional design",business,"Laptop,Laptop",20000-40000,Advanced
+12af2d7b-ca15-4495-aa39-1982b17617fc,40,Male,Low,Thane,high resolution,entertainment,Laptop,10000-20000,Intermediate
+0a4a3f7a-a42d-4ee8-b08c-5e139f85fecb,21,Male,Low,Indore,lightweight,business,Smartphone,20000-40000,Advanced
+a4f1f30f-52fc-4fff-89cf-084cd7b64762,41,Male,Medium,Kolkata,"camera quality,good storage",photography,Smartphone,60000-100000,Intermediate
+10eb2536-5c55-49de-a363-9881a13b00ef,40,Female,Medium,Pune,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",40000-60000,Advanced
+37bc2982-dda8-4156-abd3-1ce337c5ca72,26,Female,Low,Kanpur,"compact,lightweight,long battery",travel,Laptop,20000-40000,Intermediate
+d0c1ef66-587a-4bae-b74e-cdf6cb9ebb64,53,Female,Low,Hyderabad,"long battery,budget-friendly,stylus support",education,Laptop,10000-20000,Beginner
+bd7bc72c-b1c0-4f41-8d5a-f4128b6056f7,37,Male,Medium,Visakhapatnam,good storage,photography,"Smartphone,Laptop",60000-100000,Intermediate
+594c9735-e530-4a6a-be60-5690c4e7a921,37,Female,High,Bangalore,high resolution,photography,Smartphone,100000-150000,Intermediate
+b936e5a6-b6b8-4480-940f-07859a70a4a0,34,Male,Low,Ahmedabad,good speakers,entertainment,Laptop,10000-20000,Intermediate
+88a0da62-adce-4b8b-b80e-34ee618184b8,20,Male,High,Chennai,"camera quality,high resolution",photography,Laptop,100000-150000,Advanced
+ca3260b9-06b2-4992-8dc9-c86c2e703dea,21,Female,Medium,Surat,"high performance,dedicated graphics,fast processor",gaming,Smartphone,60000-100000,Intermediate
+40f6c683-ab36-4ba0-a104-ff65bdb02dce,40,Non-Binary,Medium,Pimpri-Chinchwad,good speakers,entertainment,"Smartphone,Laptop",40000-60000,Beginner
+8b9ea43b-9272-4984-a27e-51a017f4cfcc,62,Male,High,Jaipur,"compact,lightweight,long battery",travel,Laptop,60000-100000,Intermediate
+c5d0baa1-1a1a-4e29-8c55-71ce56f73076,25,Male,Medium,Kanpur,compact,travel,"Laptop,Laptop",20000-40000,Advanced
+bedff23c-9172-40b9-9034-41c6a28865c9,51,Female,High,Pimpri-Chinchwad,good speakers,entertainment,"Smartphone,Laptop",150000+,Beginner
+af4aae9c-3eb1-4fa2-b128-98a608978d52,40,Female,Medium,Pimpri-Chinchwad,"camera quality,good storage",photography,"Smartphone,Laptop",40000-60000,Advanced
+f5301e4c-4b05-406a-825b-3644a0cdb2d5,56,Female,Low,Bhopal,"high performance,fast processor",gaming,"Laptop,Smartphone",10000-20000,Intermediate
+529d2ce5-f67d-451d-a51d-9f77f8e4db07,40,Female,Low,Kanpur,"fast processor,dedicated graphics",gaming,"Laptop,Laptop",10000-20000,Intermediate
+e4b22e0c-59e5-4e62-a437-9fd7c451e9e8,21,Female,Low,Bangalore,"compact,long battery",travel,Laptop,20000-40000,Advanced
+ae27bc28-ef24-4e5c-8fce-6d26b759104a,39,Female,Medium,Visakhapatnam,"high performance,dedicated graphics",gaming,"Smartphone,Smartphone,Laptop",40000-60000,Beginner
+4f6510f6-a9de-4ae8-ad69-b624523fb1eb,45,Male,Medium,Vadodara,"fast processor,dedicated graphics",gaming,"Laptop,Laptop,Smartphone",40000-60000,Intermediate
+7539d3ee-9e23-4502-acc0-871ba289834e,40,Female,Low,Kolkata,"camera quality,good storage",photography,Laptop,10000-20000,Intermediate
+d106c76a-2b93-4532-940a-4c8871d77e18,18,Female,Low,Delhi,"compact,lightweight,long battery",travel,"Smartphone,Smartphone",20000-40000,Advanced
+ffb47842-301f-4341-9195-8ace770b1c49,50,Male,Medium,Pimpri-Chinchwad,"budget-friendly,stylus support",education,Laptop,60000-100000,Intermediate
+e808b46d-79d5-4622-9bbc-00f497b18913,57,Female,High,Kanpur,"compact,lightweight,long battery",travel,"Laptop,Laptop",150000+,Beginner
+3ba5e3f5-a0f1-47b8-b0ec-2d13905fd9a9,29,Female,High,Ahmedabad,"budget-friendly,stylus support",education,"Laptop,Smartphone,Laptop",100000-150000,Advanced
+ac61840b-183c-4921-a4c1-259d259242ff,65,Male,Medium,Nagpur,"long battery,lightweight",business,"Smartphone,Smartphone",40000-60000,Beginner
+aebfbfa0-2e7a-4361-be26-72a7bee35ef4,46,Female,Low,Hyderabad,"good speakers,high resolution",entertainment,"Laptop,Laptop,Laptop",20000-40000,Beginner
+b1360690-7ef5-4f9e-a51e-3d8b5413cd57,61,Male,Medium,Visakhapatnam,"long battery,budget-friendly",education,Smartphone,40000-60000,Intermediate
+3783fc42-7e77-4686-808b-47cfc85aacf5,60,Female,Medium,Bangalore,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",60000-100000,Intermediate
+bc7071a6-3344-4a35-b072-a9cc82865464,49,Female,Medium,Surat,good speakers,entertainment,"Smartphone,Smartphone",60000-100000,Intermediate
+0f0d1d1f-0033-48c6-8b83-cac492617495,36,Female,Medium,Jaipur,good speakers,entertainment,"Smartphone,Laptop,Smartphone",20000-40000,Advanced
+be96bdfc-2c6e-4a1f-b906-3cb35135f9e4,42,Female,Medium,Pune,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",40000-60000,Beginner
+54357aea-5c78-4e56-9951-0e282fc4d018,35,Male,Medium,Nagpur,"long battery,lightweight,professional design",business,Smartphone,40000-60000,Beginner
+ff2d1102-9532-431d-bf06-079881a37878,37,Male,Medium,Mumbai,long battery,education,"Laptop,Smartphone,Smartphone",40000-60000,Advanced
+0df9bcc5-583a-426a-b15d-50b9cc5ffd7c,43,Male,Medium,Indore,high resolution,photography,"Laptop,Smartphone,Smartphone",60000-100000,Advanced
+76bebc7e-7af9-4148-aaf5-9fa18dd62321,41,Male,Medium,Visakhapatnam,"long battery,lightweight,professional design",business,Smartphone,20000-40000,Intermediate
+c521b6c8-8233-4d1d-b04d-9797117fbd70,31,Male,Low,Vadodara,"long battery,lightweight,professional design",business,Laptop,10000-20000,Intermediate
+d9cb9852-d74f-4e9a-adef-47e45d958c57,30,Male,Low,Vadodara,"high performance,fast processor,dedicated graphics",gaming,Smartphone,20000-40000,Intermediate
+d49710ef-61c5-4ee3-9959-a5ec0933af59,23,Male,Medium,Mumbai,fast processor,gaming,Smartphone,60000-100000,Intermediate
+76ee506f-230d-4783-9b25-8a7e5c79a9ec,63,Female,Medium,Vadodara,"long battery,lightweight,professional design",business,"Smartphone,Smartphone,Smartphone",40000-60000,Beginner
+06ac7e35-11d7-4ddb-b364-6b3d0e0ee1a3,43,Female,Medium,Bangalore,stylus support,education,"Smartphone,Smartphone",20000-40000,Intermediate
+92ff1759-ed15-4c20-9a38-5b2da253443d,60,Non-Binary,Medium,Vadodara,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",60000-100000,Beginner
+e1fc902c-836e-48fb-9391-4f127b3b5e1a,26,Male,Low,Hyderabad,"long battery,lightweight",business,"Laptop,Laptop",10000-20000,Intermediate
+ad5e006b-e52d-46ed-863f-d282d797bc88,23,Male,Medium,Jaipur,"high performance,fast processor,dedicated graphics",gaming,Smartphone,60000-100000,Advanced
+876ce56d-9ef3-43a4-a3fb-9c24fb75e43e,65,Male,High,Chennai,"long battery,lightweight",travel,Laptop,100000-150000,Intermediate
+c7d3c32b-aa56-479c-9b01-464621efdf92,38,Female,High,Surat,"good speakers,large screen,high resolution",entertainment,"Smartphone,Laptop,Laptop",150000+,Intermediate
+d3abf16d-1bbe-4006-9852-c542637c416c,35,Female,Medium,Ahmedabad,stylus support,education,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+a9cbbec0-0392-41fc-97d7-5cf4ecc09280,27,Non-Binary,High,Bangalore,"long battery,stylus support",education,Laptop,100000-150000,Advanced
+08962657-e52f-4cbc-93f4-5bf5c2074eb0,23,Male,High,Surat,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Smartphone,Laptop",100000-150000,Advanced
+cbed8af7-28e9-47f5-9c20-6e2b4ca30e1b,18,Female,Medium,Pimpri-Chinchwad,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Laptop",40000-60000,Intermediate
+4f670637-52fd-4ecf-ab21-95ffcc391300,61,Female,Medium,Delhi,"high performance,fast processor,dedicated graphics",gaming,Smartphone,40000-60000,Beginner
+b931bb72-9280-41cd-a7ce-7bffe0ed4616,55,Female,High,Pune,"fast processor,dedicated graphics",gaming,"Smartphone,Laptop,Smartphone",100000-150000,Intermediate
+854f344b-6180-4d3d-b55f-06d9798264e4,53,Male,Low,Kolkata,long battery,education,"Smartphone,Laptop,Laptop",10000-20000,Intermediate
+0a3c67b3-0933-47ab-8b22-61669baa8c5a,30,Female,Medium,Pimpri-Chinchwad,"camera quality,good storage,high resolution",photography,Laptop,40000-60000,Beginner
+ef6382cd-7f47-4b4f-861c-c95fe23e4eb9,49,Male,High,Visakhapatnam,"long battery,lightweight,compact",travel,"Smartphone,Smartphone,Laptop",60000-100000,Beginner
+3d7a3e49-083e-47e5-afdc-7bf659fa2d87,51,Female,High,Bhopal,"high performance,fast processor,dedicated graphics",gaming,Laptop,60000-100000,Beginner
+d24dda4c-7dd0-46d7-8e20-6dfe8a5dfe2c,62,Male,Low,Jaipur,"long battery,budget-friendly,stylus support",education,Laptop,20000-40000,Beginner
+5743cfcc-ba9e-4893-95fd-c10b628b43b1,36,Male,Low,Vadodara,high resolution,photography,"Laptop,Smartphone,Smartphone",20000-40000,Intermediate
+07510111-adc5-4bdb-aba1-a621bc71aaec,58,Female,Low,Surat,"long battery,budget-friendly",education,Smartphone,20000-40000,Beginner
+42aac69f-0524-4027-b75a-a10ee30cc65c,49,Female,Low,Kanpur,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone",10000-20000,Beginner
+b83a99f1-2816-40ad-810d-94d6fa3e77de,57,Male,Medium,Indore,"good speakers,large screen,high resolution",entertainment,Smartphone,60000-100000,Intermediate
+46f78d79-bd99-4601-95f7-0a9734c86b9f,40,Male,Medium,Patna,stylus support,education,Smartphone,40000-60000,Intermediate
+9e0416f1-46bf-42de-ad84-d01d079baf48,53,Female,Low,Lucknow,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Laptop",20000-40000,Beginner
+40e036fa-9fb2-42e1-9d7f-3a484c017e00,37,Male,Low,Lucknow,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",20000-40000,Intermediate
+d51d196b-b376-45a1-8b14-f51c70ce9583,37,Male,Medium,Surat,"fast processor,dedicated graphics",gaming,"Laptop,Smartphone,Smartphone",60000-100000,Beginner
+befd0bd7-d8f8-427c-9cfa-abd91d9ec7c2,22,Female,High,Vadodara,"long battery,lightweight,professional design",business,"Smartphone,Smartphone,Laptop",100000-150000,Intermediate
+19e87d5b-90ba-40f2-b09d-6da099c48a37,54,Male,Low,Chennai,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Laptop",10000-20000,Beginner
+5f08ba2c-64fe-4aad-bef0-251ff65cd64f,21,Female,Medium,Chennai,long battery,business,"Smartphone,Smartphone,Smartphone",60000-100000,Advanced
+a8821579-5641-42df-ab98-77cac6e6a388,46,Male,Low,Pune,lightweight,travel,"Laptop,Smartphone",20000-40000,Intermediate
+2bb47db3-51f0-4e93-aebe-3557a0811ad1,61,Male,Medium,Indore,"camera quality,good storage,high resolution",photography,"Laptop,Smartphone",60000-100000,Beginner
+4d05e0dc-312c-4f49-a639-73a307c2b791,33,Female,Low,Kolkata,"high performance,dedicated graphics",gaming,"Smartphone,Smartphone",10000-20000,Intermediate
+a7738230-c39d-400f-84eb-a362c2e61e13,25,Male,Low,Visakhapatnam,"long battery,lightweight",travel,"Laptop,Smartphone",10000-20000,Intermediate
+810a7166-bd50-4535-b2a1-40848f2501d6,49,Female,Medium,Surat,"camera quality,good storage,high resolution",photography,"Smartphone,Smartphone",60000-100000,Beginner
+7deb1be0-31c2-4462-9313-44f8831e0c05,38,Female,Medium,Kanpur,"long battery,stylus support",education,"Smartphone,Smartphone,Smartphone",60000-100000,Intermediate
+c9b60a46-f4b7-4a04-9282-62ffa04dfbd2,19,Female,Low,Kanpur,large screen,entertainment,"Smartphone,Laptop,Laptop",10000-20000,Intermediate
+a3257bea-7c2d-4c7a-8251-1acd8aa0d6b6,48,Male,Low,Indore,"high performance,fast processor,dedicated graphics",gaming,"Laptop,Laptop",10000-20000,Beginner
+59571cf7-0abe-4382-9fdf-5e5ba5058a54,60,Female,Medium,Delhi,"budget-friendly,stylus support",education,"Smartphone,Laptop,Laptop",40000-60000,Beginner
+202425b0-e3e0-417e-8de0-1f4c4c6434f8,48,Female,Medium,Pune,"good speakers,large screen,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+50561ea5-012c-4cdf-8d59-793957375aeb,22,Female,Medium,Nagpur,lightweight,travel,Smartphone,60000-100000,Advanced
+a95e9dba-521e-4899-b59c-c26b52ebc51e,47,Male,Medium,Ahmedabad,"long battery,stylus support",education,"Smartphone,Smartphone,Laptop",20000-40000,Intermediate
+194eb528-3789-4126-b909-700419be9435,50,Male,Medium,Thane,fast processor,gaming,"Smartphone,Laptop",20000-40000,Intermediate
+75a96369-8710-4330-a2aa-c17de54ef238,36,Male,High,Hyderabad,large screen,entertainment,"Laptop,Laptop",60000-100000,Beginner
+8296de40-a122-420a-85d3-b3f4c900a733,59,Female,Medium,Pune,long battery,business,"Smartphone,Laptop,Laptop",40000-60000,Beginner
+48ad553c-2466-4d77-9b97-1acd01be1afa,20,Male,Medium,Jaipur,camera quality,photography,"Smartphone,Smartphone,Laptop",20000-40000,Advanced
+efdc8901-10db-4108-baa7-23252f363ea0,61,Female,Medium,Thane,compact,travel,"Smartphone,Laptop,Laptop",40000-60000,Intermediate
+f405ad37-27cd-4b20-9958-ee13ce9a9c07,38,Female,Low,Bangalore,long battery,travel,Laptop,10000-20000,Advanced
+9d9fc1c3-2cd6-48c9-b062-68af2e317136,37,Male,Medium,Vadodara,"high performance,fast processor",gaming,Laptop,40000-60000,Intermediate
+6307e6b8-87db-4982-b17b-af0c2ff1e528,30,Female,Low,Bhopal,"long battery,professional design",business,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+b94b3bc6-fa81-400e-9b3b-ed3969331825,43,Male,High,Surat,"budget-friendly,stylus support",education,"Laptop,Laptop",100000-150000,Beginner
+1c110a24-9d2c-4fcb-a94d-1b3b8b9e1b9f,31,Male,Low,Surat,long battery,business,"Laptop,Laptop,Laptop",10000-20000,Intermediate
+4a883779-d4a4-4333-990c-befd7361a140,59,Male,High,Bangalore,"long battery,lightweight,compact",travel,Smartphone,150000+,Beginner
+d29abb44-4b19-4808-a88e-6e448a3b99a9,34,Male,Low,Vadodara,"long battery,lightweight,professional design",business,Smartphone,20000-40000,Intermediate
+22d41ff0-948b-40c6-a3fc-33e5bfeae5db,24,Male,Low,Bhopal,"camera quality,high resolution",photography,"Laptop,Smartphone,Smartphone",10000-20000,Intermediate
+7b7ce036-b617-4ed0-b0a5-ee4b915142bd,32,Male,High,Kanpur,"long battery,lightweight",business,Smartphone,100000-150000,Advanced
+675840b3-01d6-4d06-a245-9ba075b6b1f2,51,Male,Low,Indore,"long battery,lightweight,compact",travel,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+0b301dc2-a04b-4046-83e0-dd1225143070,48,Male,Low,Pimpri-Chinchwad,professional design,business,"Smartphone,Smartphone",20000-40000,Beginner
+8465b3bb-41d0-437a-8b0f-11bcd9810ae2,32,Male,Low,Delhi,"compact,lightweight",travel,Laptop,10000-20000,Intermediate
+e23878bc-33de-4b5e-8d97-6c1a90256311,33,Female,Low,Hyderabad,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Smartphone",20000-40000,Advanced
+87bb432c-fea4-428a-aff3-265b55818029,32,Female,Low,Bangalore,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Smartphone",10000-20000,Intermediate
+a7f16526-1ced-471e-b322-e85598d85a19,46,Female,Medium,Bhopal,"large screen,high resolution",entertainment,"Laptop,Laptop",60000-100000,Beginner
+1878b3ca-acd4-4ba3-92ec-93d35c32778a,29,Female,High,Pimpri-Chinchwad,compact,travel,Smartphone,60000-100000,Intermediate
+93c8ec74-9e96-4054-957b-fe903d939e02,20,Male,High,Vadodara,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone,Laptop",100000-150000,Advanced
+ec4786d2-6a0c-4a0d-a0df-b2e3db93861c,25,Male,Medium,Thane,professional design,business,"Smartphone,Smartphone",60000-100000,Advanced
+e066d77b-58a6-401b-92ea-047547f32333,51,Female,Low,Indore,"good speakers,high resolution",entertainment,"Smartphone,Smartphone",20000-40000,Intermediate
+303f8a3c-d013-4616-9a4d-cab25ecf1226,63,Female,Low,Pimpri-Chinchwad,high performance,gaming,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+58476e69-497c-4a84-9338-af5462ebf34c,39,Male,Medium,Bhopal,compact,travel,"Smartphone,Smartphone",40000-60000,Advanced
+a4ea7df9-c8f0-4335-84c1-f5827fe395f0,42,Female,Low,Surat,stylus support,education,"Laptop,Laptop",20000-40000,Intermediate
+1e5564a5-55d7-4825-a2ca-73d688c19997,30,Male,Low,Jaipur,"good speakers,high resolution",entertainment,"Laptop,Smartphone,Smartphone",20000-40000,Advanced
+827bf719-c3e4-4757-8234-21e6465cce3d,63,Female,Medium,Bangalore,"camera quality,good storage",photography,"Smartphone,Laptop",40000-60000,Intermediate
+7d901199-57b5-4bd9-aed1-3079a84fc612,36,Female,Low,Patna,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop",20000-40000,Intermediate
+a91b40ba-c916-4b41-b3e8-f808b2778e70,24,Female,Medium,Vadodara,"fast processor,dedicated graphics",gaming,"Laptop,Laptop",40000-60000,Advanced
+46fd5272-fb90-48fe-bafe-fbe01d3e7f42,27,Male,Low,Hyderabad,lightweight,travel,Smartphone,10000-20000,Advanced
+a70ebbbd-d205-4e93-8af4-da3e72e90960,62,Male,High,Bhopal,"camera quality,high resolution",photography,Laptop,60000-100000,Beginner
+7ce6c326-72ed-4af5-83c5-058bcc8bf41e,41,Male,Low,Surat,"long battery,compact",travel,"Laptop,Laptop",10000-20000,Intermediate
+7b4ac406-6ba8-40a8-83c5-ade69411d8fd,55,Male,High,Indore,long battery,business,"Laptop,Smartphone",100000-150000,Beginner
+31535718-d8a1-4b72-940f-62e0741d274e,30,Non-Binary,Low,Surat,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop,Laptop",20000-40000,Intermediate
+88d954c0-0ebc-4b14-83bd-dda94b2721f7,63,Female,Medium,Nagpur,"long battery,lightweight,professional design",business,"Smartphone,Laptop",60000-100000,Intermediate
+8f0ae167-2aec-44fb-b6ea-f2f61b35b28a,37,Female,Medium,Chennai,camera quality,photography,"Smartphone,Smartphone",60000-100000,Advanced
+572c6889-5d02-4b8b-88bf-f1fe2980ea3a,43,Female,Medium,Ahmedabad,"good speakers,large screen,high resolution",entertainment,Smartphone,40000-60000,Beginner
+ba0f597d-6f5b-428e-ae97-dc55ce7d55f2,21,Female,Low,Lucknow,"high performance,fast processor,dedicated graphics",gaming,Smartphone,20000-40000,Intermediate
+2a5fa744-931f-4c51-af79-65865dc46a80,21,Male,High,Kanpur,"compact,lightweight,long battery",travel,"Laptop,Laptop,Smartphone",60000-100000,Advanced
+15a9df83-c2b9-4d0f-8a83-faaa62abf3b1,37,Female,Medium,Thane,high resolution,photography,Laptop,20000-40000,Intermediate
+8c2987cc-7608-4b1e-b7bd-36c7b87f3015,18,Female,High,Chennai,"long battery,budget-friendly,stylus support",education,Smartphone,150000+,Intermediate
+3da48878-4267-455f-bf52-4dbe16d171d8,65,Male,Low,Thane,high resolution,photography,"Laptop,Smartphone",10000-20000,Intermediate
+eb872675-a11a-41fc-9669-88b2b18239c8,32,Female,Medium,Mumbai,"camera quality,high resolution",photography,Smartphone,20000-40000,Advanced
+4f57a50c-4de8-4a1a-914f-aab9c292ec6c,51,Male,High,Indore,"good speakers,high resolution",entertainment,Smartphone,60000-100000,Beginner
+ed2ae0a3-5f76-481a-8d43-df4ca9f8ee36,65,Male,Medium,Bangalore,long battery,education,"Smartphone,Laptop",20000-40000,Beginner
+b4728640-a0db-4eaa-8f7f-bf3a5926e010,28,Female,Medium,Visakhapatnam,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Laptop,Smartphone",60000-100000,Beginner
+ad8cea43-e734-4b13-afc1-42844ed40a02,52,Female,High,Thane,"long battery,lightweight",travel,"Laptop,Smartphone,Laptop",150000+,Beginner
+16592342-f70d-430f-8b81-9a469e07a9e4,36,Male,Low,Indore,"compact,lightweight,long battery",travel,Laptop,10000-20000,Intermediate
+cf63c60d-c9e8-478c-a00c-0d1072257f47,35,Male,Medium,Chennai,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",20000-40000,Advanced
+c3cc2d14-881b-4054-93c4-328af5ffd4f9,31,Female,Medium,Indore,"long battery,lightweight,compact",travel,Smartphone,60000-100000,Advanced
+454ecc5f-1ece-439f-8daf-4aac155ff149,56,Female,Medium,Mumbai,camera quality,photography,"Laptop,Laptop",20000-40000,Intermediate
+6013ed66-748d-482c-b831-cfd695e4b581,56,Male,Medium,Bangalore,"compact,lightweight,long battery",travel,"Laptop,Smartphone,Smartphone",60000-100000,Beginner
+eba024c4-4cb4-4418-8565-379634865a78,61,Male,High,Surat,long battery,business,"Laptop,Laptop,Laptop",150000+,Beginner
+c6dfa04d-f8c2-4723-84c5-0c12fde05116,63,Female,Medium,Indore,compact,travel,"Laptop,Laptop",20000-40000,Beginner
+033680ff-bcbf-4b53-be10-686db7258548,26,Male,Low,Visakhapatnam,large screen,entertainment,"Smartphone,Laptop",10000-20000,Intermediate
+f8844fb2-ee43-4f0e-b994-7f9391490782,62,Female,Low,Visakhapatnam,"compact,lightweight",travel,"Smartphone,Smartphone",10000-20000,Intermediate
+7023c426-2c24-4394-96be-9c6ac54a831d,47,Female,Medium,Pune,"long battery,professional design",business,Laptop,60000-100000,Beginner
+4cd02212-726d-4c88-bf21-2e6916738fd2,51,Male,Low,Thane,"high performance,dedicated graphics",gaming,Smartphone,20000-40000,Beginner
+dc31e538-4639-44a5-9256-d62724c018db,19,Female,Low,Indore,"good storage,high resolution",photography,Laptop,10000-20000,Advanced
+c9ddfe01-9fe6-479d-8cc2-2e3045df4254,23,Male,Low,Chennai,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop,Smartphone",10000-20000,Advanced
+cddb995a-e8e9-4666-b7c6-6e8134955194,52,Non-Binary,High,Jaipur,good storage,photography,Smartphone,150000+,Intermediate
+2d475a88-0e55-43aa-80c9-3b238f1aa532,51,Female,Low,Vadodara,dedicated graphics,gaming,Laptop,10000-20000,Intermediate
+04943b87-51a9-4d6d-95bb-0fe5ebc943d5,38,Male,Low,Vadodara,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Smartphone,Laptop",10000-20000,Intermediate
+473d839e-e2f4-4c52-a1e7-7d485141b071,20,Female,Low,Delhi,good storage,photography,Laptop,10000-20000,Intermediate
+d2f8334a-4253-4cd0-aaa8-6f8806c77312,38,Non-Binary,Medium,Surat,"good speakers,large screen",entertainment,"Laptop,Laptop,Laptop",20000-40000,Advanced
+7282b657-bebb-433b-b1a5-2094ec3e7545,44,Male,Medium,Ahmedabad,"good speakers,large screen,high resolution",entertainment,"Laptop,Smartphone",60000-100000,Beginner
+405f1edb-9e82-41fb-93c7-e38d463299fe,59,Male,Low,Surat,"good speakers,high resolution",entertainment,Laptop,20000-40000,Beginner
+a8c022b8-d5c0-4dff-85ae-c41d895932f9,32,Female,Medium,Hyderabad,lightweight,travel,"Smartphone,Laptop",60000-100000,Advanced
+70efc44b-ee02-4743-ae38-d69c0aafcf96,19,Female,Medium,Nagpur,long battery,business,"Smartphone,Smartphone",40000-60000,Advanced
+c011f6bf-8014-444f-84a3-19f02f21e07e,42,Male,Low,Jaipur,"long battery,lightweight,professional design",business,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+e2d5654d-7db8-49f8-b32b-55ad735918a5,25,Male,Medium,Indore,high resolution,photography,Laptop,60000-100000,Intermediate
+cb3ab9a5-721b-4ca9-b168-2f0d1298908e,63,Male,Medium,Bangalore,"long battery,compact",travel,"Laptop,Laptop",20000-40000,Beginner
+133ad190-9964-4504-a16c-693203368f5e,57,Male,Low,Jaipur,"long battery,professional design",business,"Smartphone,Laptop,Laptop",10000-20000,Beginner
+bcd70234-f279-447b-b5aa-798a5d26bb0a,44,Male,Low,Delhi,"camera quality,good storage,high resolution",photography,Smartphone,20000-40000,Advanced
+6d9fff9e-70f6-4c84-9c64-3d65f493d213,28,Male,Low,Indore,compact,travel,"Laptop,Smartphone",20000-40000,Intermediate
+f0c6669d-b3f7-4c8e-9d5c-572b3fff1567,35,Female,Medium,Vadodara,stylus support,education,"Laptop,Smartphone,Laptop",20000-40000,Beginner
+77fa6430-1357-456f-8c80-4afbf4a3bfb2,29,Female,High,Bangalore,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop",60000-100000,Advanced
+83dcbd38-e99d-48ac-8409-d941cd07cd01,37,Male,Low,Kanpur,compact,travel,"Smartphone,Smartphone,Smartphone",20000-40000,Advanced
+616041dd-9b02-408f-a66e-5613c5cc30a1,36,Male,Low,Pimpri-Chinchwad,"high performance,fast processor",gaming,"Laptop,Smartphone,Laptop",10000-20000,Beginner
+fe153c87-3d5a-4001-a42d-17b310ea9014,58,Female,Low,Surat,dedicated graphics,gaming,"Laptop,Smartphone",10000-20000,Beginner
+a1430953-def6-4d6c-bb66-0c71c99398d8,59,Female,Medium,Mumbai,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone",60000-100000,Beginner
+64f114c7-40f5-4faa-8eb3-2f702b7414aa,50,Female,Low,Jaipur,"long battery,lightweight,professional design",business,"Smartphone,Laptop",20000-40000,Intermediate
+fd3efaaa-5c39-4b74-a351-f1c4b3385d36,22,Non-Binary,Low,Ahmedabad,"long battery,lightweight",travel,"Laptop,Smartphone",20000-40000,Advanced
+0219479e-53da-4f93-a728-2108590a12c4,26,Female,Medium,Bangalore,"camera quality,good storage",photography,Laptop,60000-100000,Intermediate
+e39e578a-0ca8-45c2-9099-03eee9a33fb1,24,Male,High,Surat,"good speakers,high resolution",entertainment,"Smartphone,Smartphone,Smartphone",150000+,Intermediate
+c0829ca9-85b5-468e-93cb-f56c10ce6b1e,54,Female,Low,Visakhapatnam,high performance,gaming,"Laptop,Laptop,Laptop",10000-20000,Beginner
+dd5a776b-e215-4245-8f33-3fceaf0ea4e6,32,Male,High,Kolkata,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Laptop",150000+,Advanced
+e9a24337-4d09-4376-ad70-30e551df0cf2,63,Male,Low,Visakhapatnam,"long battery,professional design",business,"Laptop,Smartphone,Laptop",10000-20000,Beginner
+a310bd61-5545-4b9c-94e5-93f3343f3367,58,Female,Low,Indore,long battery,business,Laptop,20000-40000,Intermediate
+32980ee3-594c-4240-a707-b0acdf348b93,32,Female,Medium,Pimpri-Chinchwad,"fast processor,dedicated graphics",gaming,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+e3e5d8a2-34ff-4b34-995c-cca9bb79343a,33,Female,Low,Surat,"compact,lightweight",travel,"Smartphone,Smartphone",10000-20000,Intermediate
+739cc904-199f-479b-a422-6407f6597ddf,43,Male,Medium,Mumbai,good storage,photography,Smartphone,20000-40000,Advanced
+a71ae129-0897-408b-afc2-34b2d82f6031,22,Female,Low,Indore,high performance,gaming,"Smartphone,Smartphone,Smartphone",10000-20000,Advanced
+f53b6151-e5bc-4a7e-98c3-24f4bf2f880c,62,Male,Medium,Mumbai,"camera quality,good storage,high resolution",photography,"Smartphone,Laptop",40000-60000,Beginner
+295fcaac-d4f8-4e59-865a-8b9e5296d67f,29,Female,High,Bhopal,long battery,business,Smartphone,60000-100000,Advanced
+0cdef3e5-2155-4069-b5fb-d7c050877375,65,Male,Low,Visakhapatnam,"camera quality,high resolution",photography,Smartphone,10000-20000,Intermediate
+3b05788d-d4ac-4c06-8286-8475349dd47e,44,Male,Low,Bhopal,"compact,long battery",travel,"Smartphone,Smartphone",20000-40000,Beginner
+ed6c3f04-ee5b-4207-9107-6c8af68d64d0,51,Female,Low,Visakhapatnam,dedicated graphics,gaming,"Smartphone,Laptop",10000-20000,Beginner
+b32e47e1-5eab-4f80-aab0-5c29d8c7c633,34,Male,Medium,Jaipur,"good speakers,large screen",entertainment,"Laptop,Smartphone,Laptop",40000-60000,Beginner
+dbea9ec0-7e02-4b3a-a7f9-3e57115a55b2,47,Male,Medium,Visakhapatnam,"long battery,lightweight",business,Smartphone,60000-100000,Beginner
+b38ea676-d43a-44a0-98d1-91a7e4d1b8f5,60,Female,Medium,Thane,long battery,education,Laptop,60000-100000,Beginner
+fe855c9a-f347-425a-90c9-ffbaf8b3558b,27,Male,Low,Delhi,"long battery,budget-friendly,stylus support",education,Laptop,20000-40000,Intermediate
+162d16e1-1f8d-43fe-9ef6-82bee2ec3004,23,Male,Medium,Patna,large screen,entertainment,Smartphone,40000-60000,Advanced
+31b5b3d4-2236-4a54-b85e-52b87c5fa173,28,Male,High,Visakhapatnam,"camera quality,high resolution",photography,"Smartphone,Smartphone",60000-100000,Intermediate
+c1b954c3-b0c8-438e-8ed9-e75003f76458,20,Male,Low,Pune,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop",20000-40000,Intermediate
+66ebc504-72d7-4a4c-907e-c0b8e462c2c0,34,Female,Medium,Hyderabad,high resolution,entertainment,Laptop,40000-60000,Intermediate
+f2758c4c-a679-4f4b-8636-625a7d38cb49,45,Male,Low,Kanpur,lightweight,travel,Smartphone,10000-20000,Intermediate
+8d87c0e2-f1b1-4e52-ae86-1bd88635fa2a,33,Female,Medium,Vadodara,"compact,lightweight",travel,Smartphone,40000-60000,Beginner
+bae07f91-f2c7-4b60-917f-d50b87a6a6af,65,Male,High,Kanpur,"fast processor,dedicated graphics",gaming,Laptop,60000-100000,Beginner
+51be82a2-70d5-48f9-b899-bc157846f4ce,55,Female,Medium,Chennai,"long battery,lightweight",business,Smartphone,60000-100000,Beginner
+3c94734e-ffd4-413d-80e9-a988db3a2fac,19,Male,High,Jaipur,"high performance,dedicated graphics,fast processor",gaming,Smartphone,60000-100000,Advanced
+06158261-d13b-46e9-939b-e1c7b24f97da,29,Male,Low,Kolkata,"fast processor,dedicated graphics",gaming,Smartphone,20000-40000,Intermediate
+a8617894-1204-410d-a4a2-8e660c444aa1,23,Female,Medium,Pune,"long battery,compact",travel,Laptop,20000-40000,Advanced
+ed9a58d5-db23-471d-b534-347238457dfb,58,Female,Low,Surat,"long battery,lightweight,compact",travel,Laptop,10000-20000,Beginner
+549a5949-562e-4e8a-af9a-97be9b312a9c,58,Female,Low,Nagpur,"long battery,budget-friendly,stylus support",education,"Smartphone,Smartphone",10000-20000,Beginner
+3e8691ac-e41e-40f2-9dbd-627d09af35f3,50,Male,Low,Lucknow,"long battery,lightweight",travel,"Smartphone,Smartphone,Laptop",10000-20000,Intermediate
+72c36b56-8e3c-484c-ae91-db0a2337b9af,21,Female,Medium,Visakhapatnam,large screen,entertainment,"Laptop,Smartphone",20000-40000,Advanced
+9e1f2820-46ec-42f3-a2c6-067b510d7b2a,22,Female,Medium,Vadodara,"long battery,lightweight,compact",travel,"Laptop,Laptop,Laptop",60000-100000,Advanced
+09782a51-c197-480c-a9f7-fe9e18fb67af,38,Male,High,Kolkata,long battery,business,"Laptop,Smartphone,Smartphone",100000-150000,Advanced
+311eaf01-b45d-4be4-9574-abcd6cdb47b9,23,Female,Low,Visakhapatnam,long battery,education,"Smartphone,Smartphone,Laptop",20000-40000,Advanced
+d9394ddd-2869-42a9-a7b5-070274bc1f7a,18,Male,Low,Mumbai,"long battery,lightweight,compact",travel,"Smartphone,Smartphone,Smartphone",20000-40000,Advanced
+1a33d6b9-0225-4d47-a87f-edcb00351faf,27,Male,High,Patna,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Laptop",100000-150000,Intermediate
+27e3499a-b51d-4ba3-a71d-be6bdb3955a5,30,Female,High,Vadodara,"lightweight,professional design",business,"Laptop,Smartphone",150000+,Advanced
+de49de4e-151d-414c-a64d-005583a1e2be,54,Female,Medium,Jaipur,"long battery,budget-friendly,stylus support",education,Smartphone,40000-60000,Intermediate
+07df89ef-f5dc-4da2-87e5-47aecb97e1ae,56,Female,Medium,Bhopal,"long battery,lightweight,compact",travel,Laptop,20000-40000,Beginner
+d15da70e-419b-4cbf-b27d-414a2b6167d9,25,Female,High,Bhopal,long battery,travel,Smartphone,150000+,Advanced
+b99cf151-47fd-4fd0-86d4-2e57214d72af,60,Male,Low,Lucknow,dedicated graphics,gaming,Laptop,20000-40000,Beginner
+7645a623-8401-40a4-9a1e-39259fec9cca,29,Male,Medium,Bhopal,"high performance,fast processor",gaming,"Laptop,Smartphone",40000-60000,Intermediate
+62da9746-7f04-4dab-81a9-3b0d36236ad4,37,Female,Medium,Bangalore,"good speakers,high resolution",entertainment,"Laptop,Laptop,Laptop",40000-60000,Intermediate
+c9d8be15-5243-42df-8f47-5b7de35160bd,39,Female,Low,Jaipur,"high performance,fast processor,dedicated graphics",gaming,Smartphone,20000-40000,Beginner
+e83e75eb-fc92-4b48-85ce-59c0bf1c9b3f,32,Male,Low,Jaipur,"camera quality,high resolution",photography,Smartphone,20000-40000,Beginner
+71e85829-ffc4-481f-9f74-2c8756d3a843,61,Non-Binary,Medium,Kanpur,"lightweight,professional design",business,Smartphone,60000-100000,Intermediate
+f50c7518-3a64-44b5-8baf-e13127d801ab,24,Female,Medium,Indore,"long battery,lightweight,professional design",business,"Laptop,Smartphone,Laptop",20000-40000,Advanced
+ed8cf4d6-bfef-4faf-b37a-c7c9d14a03d9,28,Male,Low,Vadodara,"long battery,professional design",business,"Laptop,Smartphone",10000-20000,Intermediate
+2b7952ae-b03d-4c2f-86d5-13dd591842fe,52,Female,Medium,Vadodara,"long battery,lightweight",business,"Smartphone,Smartphone",60000-100000,Beginner
+5c0409dd-7bb4-415b-90f1-4249a406f036,25,Female,Low,Visakhapatnam,"camera quality,good storage,high resolution",photography,Laptop,20000-40000,Intermediate
+b8fa70ac-3430-42d2-b1aa-63883cb18cea,64,Male,Low,Kolkata,long battery,business,"Laptop,Laptop",10000-20000,Intermediate
+60e44160-26da-46b1-934c-acb799074d33,26,Male,Low,Nagpur,"high performance,fast processor,dedicated graphics",gaming,"Smartphone,Laptop,Smartphone",20000-40000,Intermediate
+0451a11f-6473-4f95-93ed-dcb540397f3b,49,Female,Medium,Kanpur,"compact,lightweight",travel,"Smartphone,Laptop,Smartphone",20000-40000,Beginner
+94ebbc86-8876-48ec-bf57-6794747d213e,31,Male,Medium,Surat,"high performance,fast processor",gaming,"Laptop,Laptop",20000-40000,Intermediate
+8427b3bb-c2c0-4c7b-bf36-7228342d24d0,55,Female,Medium,Mumbai,"fast processor,dedicated graphics",gaming,"Laptop,Smartphone,Smartphone",20000-40000,Beginner
+959ffae9-589a-4575-b2f7-545a615ae2cc,56,Male,High,Hyderabad,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop,Laptop",60000-100000,Beginner
+75919888-d75e-4d85-b08e-500d2f5de34a,18,Male,Low,Surat,"long battery,budget-friendly,stylus support",education,"Laptop,Laptop",20000-40000,Intermediate
+d8469ec9-51f9-471d-9d6d-f0ac5e9240b3,39,Female,Medium,Pune,"high performance,dedicated graphics,fast processor",gaming,Laptop,20000-40000,Beginner
+c2a88518-6dd3-4d0a-a1b7-867e2c91cd50,44,Female,Medium,Nagpur,"camera quality,good storage,high resolution",photography,Smartphone,20000-40000,Intermediate
+8f07152e-82cc-4248-99c4-28756e895073,36,Male,Medium,Patna,"good speakers,high resolution",entertainment,Laptop,20000-40000,Intermediate
+a44f8eda-c03f-45eb-a19c-b258c01386d0,61,Male,Medium,Kolkata,"long battery,professional design",business,"Smartphone,Smartphone,Smartphone",20000-40000,Beginner
+86f2fd64-d35f-421b-93fe-588968804977,31,Male,Low,Surat,camera quality,photography,"Smartphone,Laptop,Laptop",20000-40000,Intermediate
+02251148-7acb-4459-b3da-f0de5754193f,36,Non-Binary,High,Bhopal,"large screen,high resolution",entertainment,Laptop,150000+,Beginner
+95c511df-4ff7-44f0-992f-7d57b2fa624b,36,Female,Low,Bangalore,"good storage,high resolution",photography,Smartphone,20000-40000,Advanced
+625421d3-4e48-4ff5-95fa-edf66bd73417,65,Male,Low,Kanpur,"compact,lightweight",travel,"Smartphone,Laptop",10000-20000,Beginner
+2030565d-efa1-425b-b6fa-6f72ecf9ca41,52,Male,Low,Delhi,"camera quality,high resolution",photography,"Smartphone,Smartphone",20000-40000,Beginner
+fa249f7d-3bd8-4fa8-a3b7-9951bc739909,29,Male,Medium,Kolkata,"camera quality,good storage",photography,"Smartphone,Laptop,Laptop",60000-100000,Advanced
+e81cb5ab-860e-4eca-8b8a-c19846ffb26e,49,Male,Medium,Visakhapatnam,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop",60000-100000,Beginner
+0aab6bf1-7d8d-41c3-90c4-c53a9dfb2d2f,20,Female,Low,Surat,good speakers,entertainment,Laptop,20000-40000,Advanced
+dc037da4-cb31-4996-861f-84b81f4db425,59,Female,Low,Bangalore,"long battery,compact",travel,"Laptop,Laptop,Smartphone",20000-40000,Beginner
+aebf28cb-f93f-4a34-afb9-d12a7b2dadf2,30,Female,Medium,Pimpri-Chinchwad,"compact,lightweight,long battery",travel,"Smartphone,Smartphone",60000-100000,Intermediate
+bc321c9b-bf17-4bd4-91ce-8d207aa75dba,64,Male,Low,Ahmedabad,dedicated graphics,gaming,"Smartphone,Smartphone",20000-40000,Beginner
+321bfc3a-ce38-42dd-aec0-9953161f6f9d,62,Female,High,Lucknow,stylus support,education,"Smartphone,Smartphone,Laptop",100000-150000,Beginner
+bbbed64d-cce1-43ca-b8d3-f4a3b49337f2,26,Male,Medium,Surat,"long battery,budget-friendly,stylus support",education,"Laptop,Smartphone,Smartphone",40000-60000,Advanced
+61b9b55e-3983-44d0-be8e-af89bda436bf,35,Male,Low,Kanpur,"long battery,lightweight,compact",travel,"Laptop,Smartphone,Laptop",20000-40000,Intermediate
+9fa94ea3-6929-4dab-b10a-497dc9946a5d,23,Non-Binary,Medium,Visakhapatnam,"long battery,lightweight,compact",travel,"Smartphone,Laptop,Laptop",40000-60000,Intermediate
+5d5cbd53-fc8d-4b62-b2ea-ef58f29d7452,43,Male,Medium,Visakhapatnam,"long battery,budget-friendly,stylus support",education,"Smartphone,Laptop,Smartphone",40000-60000,Advanced
+d90343c5-4c6f-4cf1-9629-5b0dcfeb32c5,32,Female,Medium,Hyderabad,"camera quality,good storage",photography,Laptop,60000-100000,Intermediate
+be13a3ab-a5b5-40d6-bdee-3b47cd0004b7,61,Female,Medium,Chennai,dedicated graphics,gaming,"Laptop,Laptop",20000-40000,Beginner
+3b17ecfa-f56f-435f-b503-36d7e06c35b8,42,Male,Medium,Mumbai,large screen,entertainment,"Smartphone,Smartphone",60000-100000,Intermediate
+7b72d873-808e-48cb-8d15-a11a7367f0b1,56,Male,High,Pune,"good speakers,large screen,high resolution",entertainment,"Laptop,Laptop",100000-150000,Beginner
+a773bbe0-4c54-4b50-8f8b-9929c9c3dc8f,58,Non-Binary,Low,Pune,"long battery,lightweight",travel,"Laptop,Laptop",20000-40000,Beginner
+5c7a3fb2-1fee-461c-aae2-e10a00310c2c,64,Female,Medium,Hyderabad,"long battery,lightweight",travel,Smartphone,40000-60000,Beginner
+50bdc0b3-ada0-438a-a7b2-a2894eeefcd1,37,Female,Medium,Visakhapatnam,"compact,long battery",travel,"Smartphone,Smartphone,Smartphone",40000-60000,Intermediate
+7f7890d8-c6f6-481f-b1fa-9e41cad742c1,32,Male,Low,Hyderabad,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",20000-40000,Advanced
+8e3d11f2-834c-4564-ba2f-6553b7b8dd0d,49,Female,High,Thane,good storage,photography,Smartphone,60000-100000,Beginner
+5b8c1b56-1b22-47b6-ba5f-91fca0b34a25,22,Female,Low,Thane,"long battery,lightweight",travel,"Smartphone,Smartphone,Smartphone",10000-20000,Advanced
+fee685c7-99b6-4c2b-a57d-c73df75dc8be,43,Non-Binary,Low,Visakhapatnam,"good speakers,large screen",entertainment,"Laptop,Smartphone",10000-20000,Intermediate
+231f5904-3de3-4eba-8254-2df407b23eef,58,Male,Low,Nagpur,"long battery,lightweight,professional design",business,Laptop,10000-20000,Intermediate
+0d7cf9e7-ed92-4c58-b80b-35e51145cfb2,33,Male,Medium,Delhi,stylus support,education,"Smartphone,Smartphone,Smartphone",40000-60000,Intermediate
+af548094-a645-46f0-8692-06611d825b75,52,Female,Low,Ahmedabad,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop,Smartphone",10000-20000,Beginner
+be966e16-9fc8-491d-859c-054529986b4f,65,Female,Low,Patna,"compact,lightweight",travel,Laptop,20000-40000,Intermediate
+d2f4de0f-9a58-42f2-b13f-8b7315ca0d89,32,Male,Low,Indore,lightweight,business,"Laptop,Smartphone",20000-40000,Intermediate
+40813200-01de-453e-afea-ceaad93c88a4,20,Female,Medium,Pune,"budget-friendly,stylus support",education,"Smartphone,Laptop,Laptop",60000-100000,Advanced
+6617747d-adbd-431d-93ae-303a109124c5,37,Female,Medium,Chennai,high resolution,entertainment,Laptop,60000-100000,Advanced
+4ff193fd-8f52-48ec-b56e-fc7d2acba0d6,25,Male,High,Pune,"long battery,lightweight,compact",travel,"Smartphone,Smartphone",150000+,Advanced
+dc7550b0-3375-43ce-be7c-c541ecc74e92,37,Male,Medium,Ahmedabad,"high performance,dedicated graphics,fast processor",gaming,"Smartphone,Laptop",20000-40000,Intermediate
+02c93413-5a7f-4e6c-a861-f930f71369d7,52,Female,Low,Bhopal,dedicated graphics,gaming,"Laptop,Laptop",10000-20000,Beginner
+e0060b66-fcd1-4278-a005-19232da868a8,20,Female,Low,Mumbai,"long battery,professional design",business,"Laptop,Smartphone",20000-40000,Intermediate
